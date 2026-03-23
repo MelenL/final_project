@@ -2,7 +2,7 @@ PROGRAMMING FOR DATA SCIENCE
 FINAL PROJECT – GROUP 5
 
 ============================================================
-1. GROUP INFORMATION
+GROUP INFORMATION
 ============================================================
 
 Group: 5
@@ -50,7 +50,7 @@ Website used for scraping:
 https://www.last.fm
 
 ============================================================
-6. PROJECT STRUCTURE
+PROJECT STRUCTURE
 ============================================================
 
 final_project/
@@ -82,7 +82,7 @@ final_project/
 
 
 ============================================================
-7. DEPENDENCIES
+DEPENDENCIES
 ============================================================
 
 The project was developed with Python 3 and uses the following packages:
@@ -100,7 +100,7 @@ scipy==1.12.0
 
 
 ============================================================
-8. INSTALLATION
+INSTALLATION
 ============================================================
 
 Install the required packages with:
@@ -113,7 +113,7 @@ pip install requests==2.31.0 beautifulsoup4==4.12.3 lxml==5.1.0 selenium==4.18.1
 
 
 ============================================================
-9. RUNNING OF THE SCRAPING PHASE
+RUNNING OF THE SCRAPING PHASE
 ============================================================
 
 To run the full scraping pipeline, we go to the scraping folder and execute:
@@ -126,7 +126,7 @@ files for the different scraped resources.
 
 
 ============================================================
-10. RUNNING OF THE ANALYSIS PHASE
+RUNNING OF THE ANALYSIS PHASE
 ============================================================
 
 The analysis phase is divided into three separate scripts.
@@ -154,7 +154,7 @@ Do the biggest artists have loyal fans?
 
 
 ============================================================
-11. OUTPUTS GENERATED
+OUTPUTS GENERATED
 ============================================================
 
 Scraping output:
@@ -185,7 +185,7 @@ Examples of generated PNG files include:
 
 
 ============================================================
-12. VIDEO PRESENTATION
+VIDEO PRESENTATION
 ============================================================
 
 Video link:
