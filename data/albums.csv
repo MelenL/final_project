@@ -1,0 +1,436 @@
+name,artist,listeners,play_count,url,tags,num_tracks
+OK Computer,Radiohead,0,0,https://www.last.fm/music/Radiohead/OK+Computer,alternative; rock; alternative rock; indie; electronic,0
+In Rainbows,Radiohead,3800000,242900000,https://www.last.fm/music/Radiohead/In+Rainbows,alternative; alternative rock; rock; radiohead; indie,10
+The Bends,Radiohead,3600000,172600000,https://www.last.fm/music/Radiohead/The+Bends,alternative rock; 1995; alternative; rock; 90s,12
+Californication (Deluxe Edition),Red Hot Chili Peppers,0,0,https://www.last.fm/music/Red+Hot+Chili+Peppers/Californication+(Deluxe+Edition),rock; alternative rock; funk rock; alternative; funk,0
+By the Way (Deluxe Edition),Red Hot Chili Peppers,0,0,https://www.last.fm/music/Red+Hot+Chili+Peppers/By+the+Way+(Deluxe+Edition),rock; alternative rock; funk rock; alternative; funk,0
+Stadium Arcadium,Red Hot Chili Peppers,0,0,https://www.last.fm/music/Red+Hot+Chili+Peppers/Stadium+Arcadium,rock; alternative rock; funk rock; alternative; funk,0
+Hybrid Theory (Bonus Edition),Linkin Park,2100000,76800000,https://www.last.fm/music/Linkin+Park/Hybrid+Theory+(Bonus+Edition),alternative metal; alternative rock; nu metal; rap rock; rap metal,15
+Meteora,Linkin Park,3900000,115300000,https://www.last.fm/music/Linkin+Park/Meteora,nu metal; rock; alternative rock; linkin park; alternative,13
+Meteora (Bonus Edition),Linkin Park,0,0,https://www.last.fm/music/Linkin+Park/Meteora+(Bonus+Edition),nu metal; rock; alternative rock; alternative; linkin park,0
+Parachutes,Coldplay,0,0,https://www.last.fm/music/Coldplay/Parachutes,rock; alternative; alternative rock; britpop; coldplay,0
+A Rush of Blood to the Head,Coldplay,0,0,https://www.last.fm/music/Coldplay/A+Rush+of+Blood+to+the+Head,rock; alternative; alternative rock; britpop; coldplay,0
+A Head Full of Dreams,Coldplay,1800000,31500000,https://www.last.fm/music/Coldplay/A+Head+Full+of+Dreams,2015; pop; alternative; alternative rock; rock,11
+Rumours (Super Deluxe),Fleetwood Mac,2500000,67000000,https://www.last.fm/music/Fleetwood+Mac/Rumours+(Super+Deluxe),classic rock; 70s; rock; fleetwood mac; pop,58
+Fleetwood Mac,Fleetwood Mac,0,0,https://www.last.fm/music/Fleetwood+Mac/Fleetwood+Mac,classic rock; rock; 70s; blues; fleetwood mac,0
+Tango in the Night (Deluxe Edition),Fleetwood Mac,0,0,https://www.last.fm/music/Fleetwood+Mac/Tango+in+the+Night+(Deluxe+Edition),classic rock; rock; 70s; blues; fleetwood mac,0
+"Kiss All The Time. Disco, Occasionally.",Harry Styles,0,0,"https://www.last.fm/music/Harry+Styles/Kiss+All+The+Time.+Disco,+Occasionally.",pop; rock; pop rock; alternative; british,0
+Harry's House,Harry Styles,0,0,https://www.last.fm/music/Harry+Styles/Harry%27s+House,pop; rock; pop rock; alternative; british,0
+Fine Line,Harry Styles,2300000,131600000,https://www.last.fm/music/Harry+Styles/Fine+Line,pop; rock; indie pop; 2010s; pop rock,12
+Abbey Road (Remastered),The Beatles,2200000,67300000,https://www.last.fm/music/The+Beatles/Abbey+Road+(Remastered),pop rock; rock; 1969; classic rock; psychedelic pop,17
+The Beatles (Remastered),The Beatles,0,0,https://www.last.fm/music/The+Beatles/The+Beatles+(Remastered),classic rock; rock; 60s; british; pop,0
+Rubber Soul (Remastered 2009),The Beatles,0,0,https://www.last.fm/music/The+Beatles/Rubber+Soul+(Remastered+2009),classic rock; rock; 60s; british; pop,0
+"Everybody Else Is Doing It, So Why Can't We?",The Cranberries,0,0,"https://www.last.fm/music/The+Cranberries/Everybody+Else+Is+Doing+It,+So+Why+Can%27t+We%3F",rock; alternative; alternative rock; female vocalists; irish,0
+No Need To Argue (2025 Remastered),The Cranberries,314400,1300000,https://www.last.fm/music/The+Cranberries/No+Need+To+Argue+(2025+Remastered),rock; alternative; alternative rock; female vocalists; irish,0
+No Need to Argue (The Complete Sessions 1994-1995),The Cranberries,1500000,15900000,https://www.last.fm/music/The+Cranberries/No+Need+to+Argue+(The+Complete+Sessions+1994-1995),rock; 90s; irish; alternative; alternative rock,18
+Hot Space (2011 Remaster),Queen,1200000,11200000,https://www.last.fm/music/Queen/Hot+Space+(2011+Remaster),rock; my top songs; classic rock; 80s; funk rock,11
+Jazz (2011 Remaster),Queen,0,0,https://www.last.fm/music/Queen/Jazz+(2011+Remaster),classic rock; rock; hard rock; glam rock; 80s,0
+A Night At The Opera (2011 Remaster),Queen,0,0,https://www.last.fm/music/Queen/A+Night+At+The+Opera+(2011+Remaster),classic rock; rock; hard rock; glam rock; 80s,0
+A Fever You Can't Sweat Out,Panic! at the Disco,2600000,107100000,https://www.last.fm/music/Panic!+at+the+Disco/A+Fever+You+Can%27t+Sweat+Out,alternative; rock; emo; indie; alternative rock,13
+Death of a Bachelor,Panic! at the Disco,1500000,42800000,https://www.last.fm/music/Panic!+at+the+Disco/Death+of+a+Bachelor,alternative; pop rock; rock; electropop; pop,11
+Vices & Virtues,Panic! at the Disco,0,0,https://www.last.fm/music/Panic!+at+the+Disco/Vices+&+Virtues,alternative; rock; indie; pop punk; alternative rock,0
+The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),David Bowie,0,0,https://www.last.fm/music/David+Bowie/The+Rise+and+Fall+of+Ziggy+Stardust+and+the+Spiders+from+Mars+(2012+Remaster),glam rock; rock; classic rock; 80s; 70s,0
+"""Heroes"" (2017 remaster)",David Bowie,1000000,11700000,https://www.last.fm/music/David+Bowie/%22Heroes%22+(2017+remaster),art rock; ambient; electronic; krautrock; art pop,10
+Hunky Dory (2015 Remaster),David Bowie,926700,16100000,https://www.last.fm/music/David+Bowie/Hunky+Dory+(2015+Remaster),glam rock; pop rock; art pop; baroque pop; art rock,11
+Synchronicity (Remastered 2003),The Police,1800000,19900000,https://www.last.fm/music/The+Police/Synchronicity+(Remastered+2003),rock; old; the police; medium; 1983,0
+Reggatta de Blanc (Remastered 2003),The Police,834100,8000000,https://www.last.fm/music/The+Police/Reggatta+de+Blanc+(Remastered+2003),the police; rock; new wave; 80s,0
+Outlandos D'Amour (Remastered 2003),The Police,0,0,https://www.last.fm/music/The+Police/Outlandos+D%27Amour+(Remastered+2003),rock; new wave; 80s; classic rock; pop,0
+Nevermind (Remastered),Nirvana,0,0,https://www.last.fm/music/Nirvana/Nevermind+(Remastered),grunge; rock; alternative; alternative rock; 90s,0
+In Utero (Deluxe Edition),Nirvana,1300000,20200000,https://www.last.fm/music/Nirvana/In+Utero+(Deluxe+Edition),grunge; usa; grunge; rock; alternative,43
+In Utero,Nirvana,2700000,56300000,https://www.last.fm/music/Nirvana/In+Utero,grunge; rock; 90s; alternative; alternative rock,12
+Dizzy Up the Girl,Goo Goo Dolls,1200000,11800000,https://www.last.fm/music/Goo+Goo+Dolls/Dizzy+Up+the+Girl,rock; alternative rock; 90s; alternative; goo goo dolls,13
+A Boy Named Goo,Goo Goo Dolls,0,0,https://www.last.fm/music/Goo+Goo+Dolls/A+Boy+Named+Goo,rock; alternative rock; alternative; 90s; pop,0
+Greatest Hits Volume One - The Singles,Goo Goo Dolls,28300,241700,https://www.last.fm/music/Goo+Goo+Dolls/Greatest+Hits+Volume+One+-+The+Singles,rock; alternative rock; 90s; alternative; goo goo dolls,14
+Man’s Best Friend,Sabrina Carpenter,1300000,102200000,https://www.last.fm/music/Sabrina+Carpenter/Man%E2%80%99s+Best+Friend,pop; 2025; dance-pop; country pop; aoty,12
+Short n' Sweet,Sabrina Carpenter,2100000,175100000,https://www.last.fm/music/Sabrina+Carpenter/Short+n%27+Sweet,2024; pop; aoty; dance-pop; best of 2024,2
+Short n' Sweet (Deluxe),Sabrina Carpenter,0,0,https://www.last.fm/music/Sabrina+Carpenter/Short+n%27+Sweet+(Deluxe),pop; female vocalists; rnb; american; my top songs,0
+Dangerous Woman,Ariana Grande,0,0,https://www.last.fm/music/Ariana+Grande/Dangerous+Woman,pop; rnb; female vocalists; ariana grande; trap,0
+"thank u, next",Ariana Grande,2400000,149900000,"https://www.last.fm/music/Ariana+Grande/thank+u,+next",pop; rnb; trap; rap; reggae pop,12
+eternal sunshine,Ariana Grande,1700000,169200000,https://www.last.fm/music/Ariana+Grande/eternal+sunshine,2024; pop; rnb; trap; best of 2024,13
+Thriller,Michael Jackson,0,0,https://www.last.fm/music/Michael+Jackson/Thriller,pop; 80s; michael jackson; soul; dance,0
+Off the Wall,Michael Jackson,0,0,https://www.last.fm/music/Michael+Jackson/Off+the+Wall,pop; 80s; michael jackson; soul; dance,0
+Xscape,Michael Jackson,0,0,https://www.last.fm/music/Michael+Jackson/Xscape,pop; 80s; michael jackson; soul; dance,0
+Purpose (Deluxe),Justin Bieber,2200000,51500000,https://www.last.fm/music/Justin+Bieber/Purpose+(Deluxe),pop; 2015; tropical house; justin bieber; canadian,4
+Journals,Justin Bieber,1200000,32100000,https://www.last.fm/music/Justin+Bieber/Journals,my top songs; love at first listen; pop; 2013; rnb,15
+Believe,Justin Bieber,1600000,22000000,https://www.last.fm/music/Justin+Bieber/Believe,pop; justin bieber; dance; sexy; 2012,13
+Teenage Dream,Katy Perry,0,0,https://www.last.fm/music/Katy+Perry/Teenage+Dream,pop; female vocalists; pop rock; katy perry; indie,0
+Teenage Dream: The Complete Confection,Katy Perry,0,0,https://www.last.fm/music/Katy+Perry/Teenage+Dream:+The+Complete+Confection,pop; female vocalists; pop rock; katy perry; indie,0
+One of the Boys,Katy Perry,3800000,69900000,https://www.last.fm/music/Katy+Perry/One+of+the+Boys,pop; katy perry; female vocalists; pop rock; dance,13
+HIT ME HARD AND SOFT,Billie Eilish,2600000,235700000,https://www.last.fm/music/Billie+Eilish/HIT+ME+HARD+AND+SOFT,aoty; 2024; pop; art pop; pop rock,10
+Happier Than Ever,Billie Eilish,0,0,https://www.last.fm/music/Billie+Eilish/Happier+Than+Ever,pop; indie pop; electropop; art pop; peter,0
+"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",Billie Eilish,0,0,"https://www.last.fm/music/Billie+Eilish/WHEN+WE+ALL+FALL+ASLEEP,+WHERE+DO+WE+GO%3F",pop; indie pop; electropop; art pop; peter,0
+SOUR,Olivia Rodrigo,0,0,https://www.last.fm/music/Olivia+Rodrigo/SOUR,pop; pop rock; rock; female vocalists; indie pop,0
+GUTS,Olivia Rodrigo,1800000,175400000,https://www.last.fm/music/Olivia+Rodrigo/GUTS,2023; pop rock; indie rock; pop; power pop,12
+GUTS (spilled),Olivia Rodrigo,1000000,67099999,https://www.last.fm/music/Olivia+Rodrigo/GUTS+(spilled),guts; pop; pop rock; rock; pop punk,17
+So Close to What,Tate McRae,0,0,https://www.last.fm/music/Tate+McRae/So+Close+to+What,pop; my top songs; canadian; electropop; tate made this for me,0
+THINK LATER,Tate McRae,0,0,https://www.last.fm/music/Tate+McRae/THINK+LATER,pop; my top songs; canadian; electropop; tate made this for me,0
+SO CLOSE TO WHAT??? (deluxe),Tate McRae,0,0,https://www.last.fm/music/Tate+McRae/SO+CLOSE+TO+WHAT%3F%3F%3F+(deluxe),pop; my top songs; canadian; electropop; tate made this for me,0
+Addison,Addison Rae,1100000,62700000,https://www.last.fm/music/Addison+Rae/Addison,2025; pop; downtempo; alt-pop; trip-hop,12
+AR,Addison Rae,439600,8900000,https://www.last.fm/music/Addison+Rae/AR,electropop; synthpop; pop rock; dance-pop; contemporary rnb,4
+Diet Pepsi,Addison Rae,806700,14700000,https://www.last.fm/music/Addison+Rae/Diet+Pepsi,soty; addison; pop perfection; pop; american,1
+The Life of a Showgirl,Taylor Swift,0,0,https://www.last.fm/music/Taylor+Swift/The+Life+of+a+Showgirl,pop; country; female vocalists; singer-songwriter; synthpop,0
+Lover,Taylor Swift,0,0,https://www.last.fm/music/Taylor+Swift/Lover,pop; country; female vocalists; singer-songwriter; synthpop,0
+reputation,Taylor Swift,2000000,268800000,https://www.last.fm/music/Taylor+Swift/reputation,electropop; pop; future bass; dance; 2017,12
+BRAT,Charli xcx,2100000,189800000,https://www.last.fm/music/Charli+xcx/BRAT,2024; electropop; pop; bubblegum bass; dance-pop,15
+Brat and it’s completely different but also still brat,Charli xcx,1700000,82800000,https://www.last.fm/music/Charli+xcx/Brat+and+it%E2%80%99s+completely+different+but+also+still+brat,brat; 2024; bubblegum bass; electropop; dance-pop,0
+how i'm feeling now,Charli xcx,0,0,https://www.last.fm/music/Charli+xcx/how+i%27m+feeling+now,pop; synthpop; electronic; electropop; bubblegum bass,0
+Planet Her,Doja Cat,0,0,https://www.last.fm/music/Doja+Cat/Planet+Her,pop; rnb; rap; hip-hop; pop rap,0
+Hot Pink,Doja Cat,2300000,86000000,https://www.last.fm/music/Doja+Cat/Hot+Pink,rap; pop; rnb; disco; pop rap,12
+Scarlet,Doja Cat,1500000,49800000,https://www.last.fm/music/Doja+Cat/Scarlet,2023; hip-hop; rap; rnb; trap,15
+Midnight Sun,Zara Larsson,686600,22100000,https://www.last.fm/music/Zara+Larsson/Midnight+Sun,2025; dance-pop; pop; baltimore club; eurodance,1
+So Good,Zara Larsson,0,0,https://www.last.fm/music/Zara+Larsson/So+Good,pop; swedish; female vocalists; sweden; indie,0
+Midnight Sun (+ more),Zara Larsson,0,0,https://www.last.fm/music/Zara+Larsson/Midnight+Sun+(%252B+more),pop; swedish; female vocalists; sweden; indie,0
+WHERE IS MY HUSBAND!,RAYE,899000,9500000,https://www.last.fm/music/RAYE/WHERE+IS+MY+HUSBAND!,pop; rnb; british; female vocalists; my top songs,1
+My 21st Century Blues,RAYE,1100000,24900000,https://www.last.fm/music/RAYE/My+21st+Century+Blues,2023; pop; pop rap; blues; house,15
+Click Clack Symphony. (feat. Hans Zimmer),RAYE,0,0,https://www.last.fm/music/RAYE/Click+Clack+Symphony.+(feat.+Hans+Zimmer),pop; rnb; british; female vocalists; my top songs,0
+Starboy,The Weeknd,0,0,https://www.last.fm/music/The+Weeknd/Starboy,rnb; electronic; canadian; dubstep; r&b,0
+Hurry Up Tomorrow,The Weeknd,0,0,https://www.last.fm/music/The+Weeknd/Hurry+Up+Tomorrow,rnb; electronic; canadian; dubstep; r&b,0
+Beauty Behind the Madness,The Weeknd,2800000,101700000,https://www.last.fm/music/The+Weeknd/Beauty+Behind+the+Madness,rnb; r&b; electronic; pop; love at first listen,14
+Demon Days,Gorillaz,4700000,146600000,https://www.last.fm/music/Gorillaz/Demon+Days,alternative; electronic; hip-hop; rock; gorillaz,15
+Humanz (Deluxe),Gorillaz,1600000,38100000,https://www.last.fm/music/Gorillaz/Humanz+(Deluxe),kali uchis; 2017; pop; electronic; electropop,26
+Plastic Beach,Gorillaz,0,0,https://www.last.fm/music/Gorillaz/Plastic+Beach,,0
+Motion,Calvin Harris,0,0,https://www.last.fm/music/Calvin+Harris/Motion,electronic; dance; electro; disco; house,0
+18 Months,Calvin Harris,2000000,32900000,https://www.last.fm/music/Calvin+Harris/18+Months,electronic; dance; pop; house; electronica,15
+96 Months,Calvin Harris,819800,5300000,https://www.last.fm/music/Calvin+Harris/96+Months,2024; house; electronic; dance; electro house,17
+Blurryface,Twenty One Pilots,2600000,99700000,https://www.last.fm/music/Twenty+One+Pilots/Blurryface,2015; indie pop; alternative; electronic; indie,14
+Drag Path,Twenty One Pilots,0,0,https://www.last.fm/music/Twenty+One+Pilots/Drag+Path,alternative; electronic; indie pop; rap; indie,0
+Trench,Twenty One Pilots,0,0,https://www.last.fm/music/Twenty+One+Pilots/Trench,alternative; electronic; indie pop; rap; indie,0
+Walking On A Dream (10th Anniversary Edition),Empire of the Sun,1500000,23500000,https://www.last.fm/music/Empire+of+the+Sun/Walking+On+A+Dream+(10th+Anniversary+Edition),electronic; indie; poptron; synthpop; pop,16
+Ice on the Dune,Empire of the Sun,557000,7700000,https://www.last.fm/music/Empire+of+the+Sun/Ice+on+the+Dune,2013; poptron; australian; electronic; best of 2013,12
+Two Vines (Deluxe),Empire of the Sun,0,0,https://www.last.fm/music/Empire+of+the+Sun/Two+Vines+(Deluxe),,0
+Crystal Castles,Crystal Castles,0,0,https://www.last.fm/music/Crystal+Castles/Crystal+Castles,electronic; 8-bit; new rave; electro; poptron,0
+Crystal Castles (II),Crystal Castles,0,0,https://www.last.fm/music/Crystal+Castles/Crystal+Castles+(II),electronic; 8-bit; new rave; electro; poptron,0
+(III),Crystal Castles,1100000,30600000,https://www.last.fm/music/Crystal+Castles/(III),electronic; experimental; witch house; new rave; synthpop,12
+Oracular Spectacular,MGMT,4300000,118200000,https://www.last.fm/music/MGMT/Oracular+Spectacular,indie; electronic; alternative; psychedelic; poptron,10
+Little Dark Age,MGMT,1700000,40400000,https://www.last.fm/music/MGMT/Little+Dark+Age,synthpop; neo-psychedelia; darkwave; psychedelic pop; new romantic,10
+Congratulations,MGMT,0,0,https://www.last.fm/music/MGMT/Congratulations,,0
+Memories...Do Not Open,The Chainsmokers,1300000,15900000,https://www.last.fm/music/The+Chainsmokers/Memories...Do+Not+Open,pop; dance; electronic; coldplay; 2017,12
+Closer,The Chainsmokers,1400000,11400000,https://www.last.fm/music/The+Chainsmokers/Closer,2016; pop; edm; electropop; future bass,1
+Roses,The Chainsmokers,0,0,https://www.last.fm/music/The+Chainsmokers/Roses,electronic; pop; house; electro house; dance,0
+Visions,Grimes,0,0,https://www.last.fm/music/Grimes/Visions,electronic; dream pop; experimental; psychedelic; poptron,0
+Art Angels,Grimes,0,0,https://www.last.fm/music/Grimes/Art+Angels,electronic; dream pop; experimental; psychedelic; poptron,0
+Miss Anthropocene (Deluxe Edition),Grimes,668900,21200000,https://www.last.fm/music/Grimes/Miss+Anthropocene+(Deluxe+Edition),2020; electronic; art pop; experimental; dream pop,15
+How to Be a Human Being,Glass Animals,1200000,39900000,https://www.last.fm/music/Glass+Animals/How+to+Be+a+Human+Being,2016; vinyl; art pop; indietronica; indie,11
+Dreamland,Glass Animals,0,0,https://www.last.fm/music/Glass+Animals/Dreamland,electronic; trip-hop; indie; british; psychedelic pop,0
+ZABA,Glass Animals,0,0,https://www.last.fm/music/Glass+Animals/ZABA,electronic; trip-hop; indie; british; psychedelic pop,0
+Timeless,KAYTRANADA,0,0,https://www.last.fm/music/KAYTRANADA/Timeless,,0
+BUBBA,KAYTRANADA,798500,22900000,https://www.last.fm/music/KAYTRANADA/BUBBA,deep house; house; electronic; rnb; hip-hop,17
+99.9%,KAYTRANADA,790300,18400000,https://www.last.fm/music/KAYTRANADA/99.9%25,2016; gal costa; house; electronic; deep house,15
+Debut,Björk,1500000,37400000,https://www.last.fm/music/Bj%C3%B6rk/Debut,alternative; electronic; female vocalists; icelandic; 90s,11
+Post,Björk,0,0,https://www.last.fm/music/Bj%C3%B6rk/Post,electronic; alternative; experimental; female vocalists; icelandic,0
+Vespertine,Björk,0,0,https://www.last.fm/music/Bj%C3%B6rk/Vespertine,electronic; alternative; experimental; female vocalists; icelandic,0
+Speak For Yourself (Deluxe Version),Imogen Heap,1200000,18700000,https://www.last.fm/music/Imogen+Heap/Speak+For+Yourself+(Deluxe+Version),lush; electronic; female vocalists; indie; electropop,24
+Speak for Yourself,Imogen Heap,1900000,42500000,https://www.last.fm/music/Imogen+Heap/Speak+for+Yourself,electronic; female vocalists; lush; electronica; 2005,12
+Headlock,Imogen Heap,115100,435300,https://www.last.fm/music/Imogen+Heap/Headlock,electronic; female vocalists; imogen heap - headlock; british; a cappella,2
+Sound of Silver,LCD Soundsystem,0,0,https://www.last.fm/music/LCD+Soundsystem/Sound+of+Silver,electronic; poptron; indie; dance; alternative,0
+This Is Happening,LCD Soundsystem,0,0,https://www.last.fm/music/LCD+Soundsystem/This+Is+Happening,electronic; poptron; indie; dance; alternative,0
+LCD Soundsystem,LCD Soundsystem,1100000,14900000,https://www.last.fm/music/LCD+Soundsystem/LCD+Soundsystem,poptron; electronic; indie; electronica; dance,17
+Encore,DJ Snake,1400000,15600000,https://www.last.fm/music/DJ+Snake/Encore,electronic; justin bieber; tropical house; electropop; 2016,14
+You Know You Like It,DJ Snake,559600,4099999,https://www.last.fm/music/DJ+Snake/You+Know+You+Like+It,dance; 2015; electronic; pop; trap,1
+Carte Blanche,DJ Snake,0,0,https://www.last.fm/music/DJ+Snake/Carte+Blanche,,0
+DAMN.,Kendrick Lamar,0,0,https://www.last.fm/music/Kendrick+Lamar/DAMN.,hip-hop; rap; hip hop; west coast; conscious hip hop,0
+GNX,Kendrick Lamar,2000000,121700000,https://www.last.fm/music/Kendrick+Lamar/GNX,2024; west coast hip hop; nervous music; ratchet music; hardcore hip hop,12
+To Pimp a Butterfly,Kendrick Lamar,2300000,142000000,https://www.last.fm/music/Kendrick+Lamar/To+Pimp+a+Butterfly,hip-hop; jazz rap; funk; conscious hip hop; rap,16
+Graduation,Kanye West,4000000,209700000,https://www.last.fm/music/Kanye+West/Graduation,hip-hop; rap; kanye west; hip hop; rnb,13
+My Beautiful Dark Twisted Fantasy,Kanye West,0,0,https://www.last.fm/music/Kanye+West/My+Beautiful+Dark+Twisted+Fantasy,hip-hop; rap; hip hop; kanye west; rnb,0
+The Life of Pablo,Kanye West,0,0,https://www.last.fm/music/Kanye+West/The+Life+of+Pablo,hip-hop; rap; hip hop; kanye west; rnb,0
+Don't Be Dumb,A$AP Rocky,738000,19200000,https://www.last.fm/music/A$AP+Rocky/Don%27t+Be+Dumb,2026; trap; wikipedia; neo-psychedelia; jazz rap,4
+LONG.LIVE.A$AP (Deluxe Version),A$AP Rocky,1900000,71400000,https://www.last.fm/music/A$AP+Rocky/LONG.LIVE.A$AP+(Deluxe+Version),rap; hip-hop; cloud rap; east coast hip-hop; underground hip-hop,17
+AT.LONG.LAST.A$AP,A$AP Rocky,1700000,75400000,https://www.last.fm/music/A$AP+Rocky/AT.LONG.LAST.A$AP,rap; neo-psychedelia; hip-hop; neo soul; 2015,18
+Swimming,Mac Miller,0,0,https://www.last.fm/music/Mac+Miller/Swimming,hip-hop; rap; hip hop; underground hip-hop; mac miller,0
+The Divine Feminine,Mac Miller,0,0,https://www.last.fm/music/Mac+Miller/The+Divine+Feminine,hip-hop; rap; hip hop; underground hip-hop; mac miller,0
+K.I.D.S.,Mac Miller,1200000,29800000,https://www.last.fm/music/Mac+Miller/K.I.D.S.,hip-hop; rap; mac miller; hip hop; chill,18
+Camp,Childish Gambino,2200000,72400000,https://www.last.fm/music/Childish+Gambino/Camp,rap; hip-hop; pop; hip hop; rnb,13
+Because the Internet,Childish Gambino,2100000,85700000,https://www.last.fm/music/Childish+Gambino/Because+the+Internet,rap; pop rap; hip-hop; west coast hip hop; 2013,19
+"""Awaken, My Love!""",Childish Gambino,0,0,"https://www.last.fm/music/Childish+Gambino/%22Awaken,+My+Love!%22",,0
+2014 Forest Hills Drive,J. Cole,2000000,76800000,https://www.last.fm/music/J.+Cole/2014+Forest+Hills+Drive,j cole; hip-hop; rap; hip hop; 2014,13
+The Fall-Off,J. Cole,305600,10800000,https://www.last.fm/music/J.+Cole/The+Fall-Off,rap; hip-hop; 2026; j cole; hip-hop,24
+Cole World: The Sideline Story,J. Cole,1200000,25100000,https://www.last.fm/music/J.+Cole/Cole+World:+The+Sideline+Story,hip-hop; j cole; hip hop; rap; 2011,16
+Man on the Moon II: The Legend of Mr. Rager,Kid Cudi,1500000,45200000,https://www.last.fm/music/Kid+Cudi/Man+on+the+Moon+II:+The+Legend+of+Mr.+Rager,hip-hop; alternative; rap; kid cudi; alternative rap,17
+Man On The Moon: The End Of Day (Deluxe),Kid Cudi,781900,21300000,https://www.last.fm/music/Kid+Cudi/Man+On+The+Moon:+The+End+Of+Day+(Deluxe),hip hop; synthpop; neo-psychedelia; art pop; pop rap,0
+Man on the Moon: The End of Day (Int'l Version),Kid Cudi,973000,15900000,https://www.last.fm/music/Kid+Cudi/Man+on+the+Moon:+The+End+of+Day+(Int%27l+Version),hip-hop; kid cudi; hip hop; rap; chill,16
+The Eminem Show,Eminem,2900000,81300000,https://www.last.fm/music/Eminem/The+Eminem+Show,rap; hip-hop; eminem; hip hop; 00s,20
+The Marshall Mathers LP,Eminem,0,0,https://www.last.fm/music/Eminem/The+Marshall+Mathers+LP,rap; hip-hop; eminem; hip hop; pop,0
+Recovery,Eminem,0,0,https://www.last.fm/music/Eminem/Recovery,rap; hip-hop; eminem; hip hop; pop,0
+CA$INO,Baby Keem,324600,8700000,https://www.last.fm/music/Baby+Keem/CA$INO,2026; baby keem; rap; hip-hop; trap,12
+The Melodic Blue,Baby Keem,1500000,87600000,https://www.last.fm/music/Baby+Keem/The+Melodic+Blue,baby keem; rap; chillwave; trap; synthpop,16
+DIE FOR MY BITCH,Baby Keem,1300000,52400000,https://www.last.fm/music/Baby+Keem/DIE+FOR+MY+BITCH,alternative rnb; rap; trap; baby keem; pop rap,14
+The E.N.D. (The Energy Never Dies) [Deluxe Version],Black Eyed Peas,0,0,https://www.last.fm/music/Black+Eyed+Peas/The+E.N.D.+(The+Energy+Never+Dies)+%5BDeluxe+Version%5D,hip-hop; pop; rnb; rap; dance,0
+Monkey Business,Black Eyed Peas,0,0,https://www.last.fm/music/Black+Eyed+Peas/Monkey+Business,hip-hop; pop; rnb; rap; dance,0
+The E.N.D. (The Energy Never Dies),Black Eyed Peas,0,0,https://www.last.fm/music/Black+Eyed+Peas/The+E.N.D.+(The+Energy+Never+Dies),hip-hop; pop; rnb; rap; dance,0
+Planet Pit (Deluxe Version),Pitbull,1900000,24700000,https://www.last.fm/music/Pitbull/Planet+Pit+(Deluxe+Version),dance; pop; party; pitbull; male vocalists,16
+Globalization,Pitbull,1600000,16000000,https://www.last.fm/music/Pitbull/Globalization,pop; party; 2015; ne-yo; pitbull,11
+Global Warming: Meltdown (Deluxe Version),Pitbull,0,0,https://www.last.fm/music/Pitbull/Global+Warming:+Meltdown+(Deluxe+Version),hip-hop; rap; reggaeton; dance; hip hop,0
+Hollywood's Bleeding,Post Malone,0,0,https://www.last.fm/music/Post+Malone/Hollywood%27s+Bleeding,hip-hop; rap; trap; cloud rap; pop,0
+beerbongs & bentleys,Post Malone,0,0,https://www.last.fm/music/Post+Malone/beerbongs+&+bentleys,hip-hop; rap; trap; cloud rap; pop,0
+Stoney (Deluxe),Post Malone,1600000,48700000,https://www.last.fm/music/Post+Malone/Stoney+(Deluxe),2016; rap; hip-hop; cloud rap; post malone,18
+Tha Carter III,Lil' Wayne,393900,5000000,https://www.last.fm/music/Lil%27+Wayne/Tha+Carter+III,rap; lil wayne; hip-hop; 2008; best of 2008,16
+Tha Carter IV,Lil' Wayne,19000,588600,https://www.last.fm/music/Lil%27+Wayne/Tha+Carter+IV,hip-hop; rap; lil wayne; cool; southern hip hop,15
+Love Me,Lil' Wayne,0,0,https://www.last.fm/music/Lil%27+Wayne/Love+Me,hip-hop; rap; dirty south; hip hop; southern rap,0
+MM..FOOD,MF DOOM,0,0,https://www.last.fm/music/MF+DOOM/MM..FOOD,hip-hop; underground hip-hop; hip hop; rap; mf doom,0
+Operation: Doomsday (Complete),MF DOOM,1100000,33600000,https://www.last.fm/music/MF+DOOM/Operation:+Doomsday+(Complete),hip-hop; hip hop; underground hip-hop; alternative hip-hop; rap,42
+Born Like This,MF DOOM,793100,14800000,https://www.last.fm/music/MF+DOOM/Born+Like+This,2009; underground hip-hop; rap; hip-hop; alternative hip-hop,21
+Wild Ones,Flo Rida,0,0,https://www.last.fm/music/Flo+Rida/Wild+Ones,,0
+Mail on Sunday,Flo Rida,0,0,https://www.last.fm/music/Flo+Rida/Mail+on+Sunday,,0
+R.O.O.T.S. (Route Of Overcoming The Struggle),Flo Rida,0,0,https://www.last.fm/music/Flo+Rida/R.O.O.T.S.+(Route+Of+Overcoming+The+Struggle),,0
+Ultraviolence (Deluxe),Lana Del Rey,2300000,170500000,https://www.last.fm/music/Lana+Del+Rey/Ultraviolence+(Deluxe),alternative; indie; cult; sadcore; love at first listen,14
+Norman Fucking Rockwell!,Lana Del Rey,2300000,197500000,https://www.last.fm/music/Lana+Del+Rey/Norman+Fucking+Rockwell!,art pop; dream pop; soft rock; pop; singer-songwriter,14
+Born to Die - The Paradise Edition,Lana Del Rey,2700000,160500000,https://www.last.fm/music/Lana+Del+Rey/Born+to+Die+-+The+Paradise+Edition,indie; pop; female vocalists; indie pop; alternative,24
+AM,Arctic Monkeys,0,0,https://www.last.fm/music/Arctic+Monkeys/AM,indie rock; indie; british; rock; alternative,0
+Favourite Worst Nightmare,Arctic Monkeys,0,0,https://www.last.fm/music/Arctic+Monkeys/Favourite+Worst+Nightmare,indie rock; indie; british; rock; alternative,0
+Favourite Worst Nightmare (Standard Version),Arctic Monkeys,1700000,45500000,https://www.last.fm/music/Arctic+Monkeys/Favourite+Worst+Nightmare+(Standard+Version),indie rock; indie; british; rock; alternative,12
+Hatful of Hollow,The Smiths,2600000,95200000,https://www.last.fm/music/The+Smiths/Hatful+of+Hollow,80s; indie; new wave; alternative; post-punk,16
+The Queen Is Dead,The Smiths,0,0,https://www.last.fm/music/The+Smiths/The+Queen+Is+Dead,indie; post-punk; new wave; 80s; alternative,0
+The Smiths,The Smiths,0,0,https://www.last.fm/music/The+Smiths/The+Smiths,indie; post-punk; new wave; 80s; alternative,0
+I Barely Know Her,sombr,0,0,https://www.last.fm/music/sombr/I+Barely+Know+Her,indie; alternative; rock; singer-songwriter; wsum 91.7 fm madison,0
+Homewrecker,sombr,296300,2200000,https://www.last.fm/music/sombr/Homewrecker,indie; alternative; rock; singer-songwriter; wsum 91.7 fm madison,1
+back to friends,sombr,1100000,17000000,https://www.last.fm/music/sombr/back+to+friends,indie; alternative; rock; singer-songwriter; wsum 91.7 fm madison,1
+"Don't Forget About Me, Demos",Dominic Fike,1800000,46500000,"https://www.last.fm/music/Dominic+Fike/Don%27t+Forget+About+Me,+Demos",pop; alternative pop; alternative; indie pop; 10s,6
+Sunburn,Dominic Fike,0,0,https://www.last.fm/music/Dominic+Fike/Sunburn,indie; indie pop; pop; alternative; american,0
+White Keys,Dominic Fike,0,0,https://www.last.fm/music/Dominic+Fike/White+Keys,indie; indie pop; pop; alternative; american,0
+Be the Cowboy,Mitski,2300000,150100000,https://www.last.fm/music/Mitski/Be+the+Cowboy,art pop; indie rock; indie pop; art rock; indie,14
+Puberty 2,Mitski,1800000,108200000,https://www.last.fm/music/Mitski/Puberty+2,indie rock; 2016; indie; art pop; wsum 91.7 fm madison,11
+bury me at makeout creek,Mitski,1800000,110300000,https://www.last.fm/music/Mitski/bury+me+at+makeout+creek,2014; indie rock; singer-songwriter; slacker rock; indie,10
+The New Abnormal,The Strokes,0,0,https://www.last.fm/music/The+Strokes/The+New+Abnormal,indie rock; indie; rock; alternative; alternative rock,0
+Is This It,The Strokes,0,0,https://www.last.fm/music/The+Strokes/Is+This+It,indie rock; indie; rock; alternative; alternative rock,0
+Room on Fire,The Strokes,3100000,86200000,https://www.last.fm/music/The+Strokes/Room+on+Fire,indie rock; rock; indie; alternative; alternative rock,11
+Hot Fuss,The Killers,5000000,132600000,https://www.last.fm/music/The+Killers/Hot+Fuss,rock; indie rock; indie; alternative; alternative rock,11
+Sam's Town,The Killers,2900000,69600000,https://www.last.fm/music/The+Killers/Sam%27s+Town,indie rock; rock; indie; alternative; alternative rock,12
+Day & Age (Bonus Tracks),The Killers,0,0,https://www.last.fm/music/The+Killers/Day+&+Age+(Bonus+Tracks),indie rock; indie; rock; alternative; alternative rock,0
+Being Funny in a Foreign Language,The 1975,0,0,https://www.last.fm/music/The+1975/Being+Funny+in+a+Foreign+Language,indie rock; indie; british; alternative; poptron,0
+"I like it when you sleep, for you are so beautiful yet so unaware of it",The 1975,1300000,52800000,"https://www.last.fm/music/The+1975/I+like+it+when+you+sleep,+for+you+are+so+beautiful+yet+so+unaware+of+it",poptron; wsum 91.7 fm madison; indie; indie rock; pop,17
+A Brief Inquiry Into Online Relationships,The 1975,1200000,51600000,https://www.last.fm/music/The+1975/A+Brief+Inquiry+Into+Online+Relationships,2018; pop rock; synthpop; art pop; pop,15
+Hozier (Expanded Edition),Hozier,1100000,45700000,https://www.last.fm/music/Hozier/Hozier+(Expanded+Edition),2014; folk; soul; blues; indie,15
+Hozier,Hozier,0,0,https://www.last.fm/music/Hozier/Hozier,,0
+"Wasteland, Baby!",Hozier,0,0,"https://www.last.fm/music/Hozier/Wasteland,+Baby!",,0
+Carrie & Lowell,Sufjan Stevens,1500000,54100000,https://www.last.fm/music/Sufjan+Stevens/Carrie+&+Lowell,folk; indie folk; indie; singer-songwriter; wsum 91.7 fm madison,11
+Mystery of Love,Sufjan Stevens,762400,7700000,https://www.last.fm/music/Sufjan+Stevens/Mystery+of+Love,indie folk; indie; stage; screen; folk,3
+Illinois,Sufjan Stevens,1300000,48900000,https://www.last.fm/music/Sufjan+Stevens/Illinois,indie; folk; singer-songwriter; beautiful; mellow,22
+Night Visions,Imagine Dragons,0,0,https://www.last.fm/music/Imagine+Dragons/Night+Visions,indie; indie rock; alternative; rock; indie pop,0
+Evolve,Imagine Dragons,0,0,https://www.last.fm/music/Imagine+Dragons/Evolve,indie; indie rock; alternative; rock; indie pop,0
+Mercury - Acts 1 & 2,Imagine Dragons,913400,19600000,https://www.last.fm/music/Imagine+Dragons/Mercury+-+Acts+1+&+2,2022; rock; alternative; synthpop; alternative rock,32
+Cry Baby (Deluxe Edition),Melanie Martinez,1800000,81600000,https://www.last.fm/music/Melanie+Martinez/Cry+Baby+(Deluxe+Edition),indie; pop; alternative; electropop; uk bass,16
+K-12,Melanie Martinez,1100000,47300000,https://www.last.fm/music/Melanie+Martinez/K-12,alternative; indie; pop; hip hop; female vocalist,13
+PORTALS,Melanie Martinez,0,0,https://www.last.fm/music/Melanie+Martinez/PORTALS,pop; indie; indie pop; female vocalists; alternative,0
+Tourist History,Two Door Cinema Club,0,0,https://www.last.fm/music/Two+Door+Cinema+Club/Tourist+History,indie; electronic; british; alternative; indie rock,0
+Beacon,Two Door Cinema Club,698600,15700000,https://www.last.fm/music/Two+Door+Cinema+Club/Beacon,indie; indie rock; alternative; electronic; british,11
+Changing of the Seasons,Two Door Cinema Club,250500,2000000,https://www.last.fm/music/Two+Door+Cinema+Club/Changing+of+the+Seasons,indie; 2013; rock; pop; indie rock,4
+Torches,Foster the People,3100000,70100000,https://www.last.fm/music/Foster+the+People/Torches,indie; indie pop; indie rock; alternative; catchy,10
+Sacred Hearts Club,Foster the People,0,0,https://www.last.fm/music/Foster+the+People/Sacred+Hearts+Club,indie; indie pop; alternative; american; indie rock,0
+Imagination,Foster the People,0,0,https://www.last.fm/music/Foster+the+People/Imagination,indie; indie pop; alternative; american; indie rock,0
+Around the Fur,Deftones,2200000,103300000,https://www.last.fm/music/Deftones/Around+the+Fur,nu metal; alternative metal; metal; alternative rock; deftones,10
+White Pony,Deftones,2100000,81800000,https://www.last.fm/music/Deftones/White+Pony,metal; alternative metal; nu metal; alternative; alternative rock,11
+Diamond Eyes,Deftones,1700000,69600000,https://www.last.fm/music/Deftones/Diamond+Eyes,alternative metal; metal; alternative rock; nu metal; deftones,11
+Twilight,bôa,0,0,https://www.last.fm/music/b%C3%B4a/Twilight,,0
+Get There,bôa,0,0,https://www.last.fm/music/b%C3%B4a/Get+There,,0
+Duvet,bôa,222900,1300000,https://www.last.fm/music/b%C3%B4a/Duvet,anime; serial experiments lain; alternative rock; alternative; rock,4
+Doolittle,Pixies,2400000,72100000,https://www.last.fm/music/Pixies/Doolittle,alternative rock; alternative; rock; indie; indie rock,15
+Surfer Rosa (2007 Remaster),Pixies,887200,7300000,https://www.last.fm/music/Pixies/Surfer+Rosa+(2007+Remaster),rock; indie; alternative rock; indie rock; post-hardcore,13
+Head Carrier,Pixies,0,0,https://www.last.fm/music/Pixies/Head+Carrier,,0
+Melophobia,Cage the Elephant,0,0,https://www.last.fm/music/Cage+the+Elephant/Melophobia,indie rock; alternative; rock; indie; alternative rock,0
+Tell Me I'm Pretty,Cage the Elephant,0,0,https://www.last.fm/music/Cage+the+Elephant/Tell+Me+I%27m+Pretty,indie rock; alternative; rock; indie; alternative rock,0
+Social Cues,Cage the Elephant,770600,18300000,https://www.last.fm/music/Cage+the+Elephant/Social+Cues,indie rock; rock; garage rock; indie; psychedelic rock,13
+Mellow Gold,Beck,1700000,17200000,https://www.last.fm/music/Beck/Mellow+Gold,1994; alternative rock; 90s; alternative; rock,12
+Guero,Beck,1200000,18800000,https://www.last.fm/music/Beck/Guero,alternative; rock; indie; alternative rock; beck,13
+Odelay,Beck,1000000,14600000,https://www.last.fm/music/Beck/Odelay,1996; 90s; alternative; alternative rock; rock,13
+From Under the Cork Tree,Fall Out Boy,0,0,https://www.last.fm/music/Fall+Out+Boy/From+Under+the+Cork+Tree,pop punk; rock; alternative; emo; fall out boy,0
+Infinity on High,Fall Out Boy,2300000,77800000,https://www.last.fm/music/Fall+Out+Boy/Infinity+on+High,rock; pop punk; alternative; fall out boy; emo,14
+American Beauty/American Psycho,Fall Out Boy,1400000,32500000,https://www.last.fm/music/Fall+Out+Boy/American+Beauty%2FAmerican+Psycho,rock; pop punk; pop rock; alternative; pop,11
+Mellon Collie and the Infinite Sadness (Deluxe Edition),The Smashing Pumpkins,1800000,56800000,https://www.last.fm/music/The+Smashing+Pumpkins/Mellon+Collie+and+the+Infinite+Sadness+(Deluxe+Edition),alternative rock; rock; 90s; alternative; grunge,92
+Siamese Dream (Deluxe Edition),The Smashing Pumpkins,0,0,https://www.last.fm/music/The+Smashing+Pumpkins/Siamese+Dream+(Deluxe+Edition),,0
+Aeroplane Flies High (Deluxe Edition),The Smashing Pumpkins,416300,4900000,https://www.last.fm/music/The+Smashing+Pumpkins/Aeroplane+Flies+High+(Deluxe+Edition),rock; alternative rock; 90s; alternative; grunge,90
+Toxicity,System of a Down,4099999,161100000,https://www.last.fm/music/System+of+a+Down/Toxicity,alternative metal; metal; rock; system of a down; alternative,3
+Hypnotize,System of a Down,2700000,79500000,https://www.last.fm/music/System+of+a+Down/Hypnotize,alternative metal; metal; rock; system of a down; alternative,12
+Mezmerize,System of a Down,2500000,82000000,https://www.last.fm/music/System+of+a+Down/Mezmerize,alternative metal; metal; rock; alternative; system of a down,11
+Vol. 3: The Subliminal Verses (Special Edition),Slipknot,0,0,https://www.last.fm/music/Slipknot/Vol.+3:+The+Subliminal+Verses+(Special+Edition),nu metal; metal; heavy metal; alternative metal; nu-metal,0
+Slipknot,Slipknot,1600000,43400000,https://www.last.fm/music/Slipknot/Slipknot,nu metal; metal; alternative metal; crossover; 1999,6
+All Hope Is Gone (10th Anniversary),Slipknot,850500,14700000,https://www.last.fm/music/Slipknot/All+Hope+Is+Gone+(10th+Anniversary),heavy metal; alternative metal; nu metal; emo; experimental,28
+Metallica (Remastered Deluxe Box Set),Metallica,560300,6100000,https://www.last.fm/music/Metallica/Metallica+(Remastered+Deluxe+Box+Set),metal; rock; heavy metal; thrash metal; metallica,0
+Metallica,Metallica,0,0,https://www.last.fm/music/Metallica/Metallica,thrash metal; heavy metal; metal; hard rock; metallica,0
+Master Of Puppets (Remastered),Metallica,0,0,https://www.last.fm/music/Metallica/Master+Of+Puppets+(Remastered),thrash metal; heavy metal; metal; hard rock; metallica,0
+Ten Thousand Fists,Disturbed,1200000,34500000,https://www.last.fm/music/Disturbed/Ten+Thousand+Fists,metal; nu metal; hard rock; alternative metal; disturbed,14
+The Sickness,Disturbed,1500000,27300000,https://www.last.fm/music/Disturbed/The+Sickness,nu metal; metal; hard rock; disturbed; rock,12
+Indestructible (Deluxe Edition),Disturbed,272100,4000000,https://www.last.fm/music/Disturbed/Indestructible+(Deluxe+Edition),nu metal; 2025; 60pc; nu metal; metal,15
+Mutter,Rammstein,0,0,https://www.last.fm/music/Rammstein/Mutter,industrial metal; metal; industrial; german; rock,0
+RAMMSTEIN,Rammstein,0,0,https://www.last.fm/music/Rammstein/RAMMSTEIN,industrial metal; metal; industrial; german; rock,0
+Sehnsucht (Remastered 2023),Rammstein,117000,659100,https://www.last.fm/music/Rammstein/Sehnsucht+(Remastered+2023),industrial metal; metal; industrial; german; rock,0
+BABYMETAL,BABYMETAL,650600,19900000,https://www.last.fm/music/BABYMETAL/BABYMETAL,metal; kawaii metal; japanese; j-pop; death metal,13
+METAL FORTH,BABYMETAL,157200,2500000,https://www.last.fm/music/BABYMETAL/METAL+FORTH,2025; metal; j-pop; babymetal; metal,10
+RATATATA,BABYMETAL,0,0,https://www.last.fm/music/BABYMETAL/RATATATA,,0
+Hellbilly Deluxe,Rob Zombie,0,0,https://www.last.fm/music/Rob+Zombie/Hellbilly+Deluxe,,0
+The Sinister Urge,Rob Zombie,697900,9000000,https://www.last.fm/music/Rob+Zombie/The+Sinister+Urge,industrial metal; metal; industrial; hard rock; rob zombie,11
+"Past, Present & Future",Rob Zombie,294300,3900000,"https://www.last.fm/music/Rob+Zombie/Past,+Present+&+Future",industrial metal; metal; industrial; rock; hard rock,29
+Avenged Sevenfold,Avenged Sevenfold,1400000,49200000,https://www.last.fm/music/Avenged+Sevenfold/Avenged+Sevenfold,hard rock; heavy metal; metalcore; metal; 2007,10
+Nightmare,Avenged Sevenfold,936700,38200000,https://www.last.fm/music/Avenged+Sevenfold/Nightmare,hard rock; heavy metal; metal; metalcore; 2010,11
+Hail To The King,Avenged Sevenfold,0,0,https://www.last.fm/music/Avenged+Sevenfold/Hail+To+The+King,metalcore; metal; hard rock; heavy metal; hardcore,0
+Piece of Mind (2015 Remaster),Iron Maiden,597900,6900000,https://www.last.fm/music/Iron+Maiden/Piece+of+Mind+(2015+Remaster),heavy metal; nwobhm; 1983; metal; heavy metal,9
+The Number of the Beast (2015 remaster),Iron Maiden,534400,7700000,https://www.last.fm/music/Iron+Maiden/The+Number+of+the+Beast+(2015+remaster),metal; heavy metal; 1982; heavy metal albums; wpwpwpwpwpwpwpwpwpwpwp,8
+Fear Of The Dark (2015 Remaster),Iron Maiden,423100,5300000,https://www.last.fm/music/Iron+Maiden/Fear+Of+The+Dark+(2015+Remaster),heavy metal; metal; nwobhm; hard rock; classic rock,12
+Spit,Kittie,0,0,https://www.last.fm/music/Kittie/Spit,metal; nu metal; metalcore; female vocalists; female fronted metal,0
+Oracle,Kittie,0,0,https://www.last.fm/music/Kittie/Oracle,metal; nu metal; metalcore; female vocalists; female fronted metal,0
+Until the End,Kittie,135200,1400000,https://www.last.fm/music/Kittie/Until+the+End,metal; groove metal; nu metal; alternative metal; death metal,11
+Vulgar Display of Power,Pantera,1200000,28400000,https://www.last.fm/music/Pantera/Vulgar+Display+of+Power,thrash metal; groove metal; metal; heavy metal; pantera,11
+Cowboys From Hell,Pantera,1100000,30200000,https://www.last.fm/music/Pantera/Cowboys+From+Hell,thrash metal; groove metal; metal; heavy metal; pantera,12
+The Great Southern Trendkill,Pantera,0,0,https://www.last.fm/music/Pantera/The+Great+Southern+Trendkill,thrash metal; groove metal; metal; heavy metal; pantera,0
+Paranoid,Black Sabbath,0,0,https://www.last.fm/music/Black+Sabbath/Paranoid,heavy metal; hard rock; classic rock; metal; rock,0
+Paranoid (Remaster),Black Sabbath,733900,10400000,https://www.last.fm/music/Black+Sabbath/Paranoid+(Remaster),heavy metal; hard rock; 1970; metal; classic rock,8
+Master of Reality,Black Sabbath,875400,11900000,https://www.last.fm/music/Black+Sabbath/Master+of+Reality,heavy metal; hard rock; classic rock; metal; 70s,8
+Painkiller,Judas Priest,788200,13100000,https://www.last.fm/music/Judas+Priest/Painkiller,heavy metal; metal; speed metal; judas priest; nwobhm,10
+British Steel,Judas Priest,0,0,https://www.last.fm/music/Judas+Priest/British+Steel,heavy metal; metal; hard rock; nwobhm; judas priest,0
+Screaming For Vengeance (Expanded Edition),Judas Priest,236100,2400000,https://www.last.fm/music/Judas+Priest/Screaming+For+Vengeance+(Expanded+Edition),heavy metal; metal; 80s; hard rock; judas priest,16
+Bullet Hell,RichaadEB,110000,1500000,https://www.last.fm/music/RichaadEB/Bullet+Hell,touhou; power metal; metal; doujin music; progressive metal,14
+Bullet Hell II,RichaadEB,53700,805700,https://www.last.fm/music/RichaadEB/Bullet+Hell+II,metal; touhou; rock; progressive metal; j-rock,16
+Megalovania,RichaadEB,0,0,https://www.last.fm/music/RichaadEB/Megalovania,metal; progressive metal; video game metal; soundtrack; touhou,0
+As Daylight Dies (Special Edition),Killswitch Engage,0,0,https://www.last.fm/music/Killswitch+Engage/As+Daylight+Dies+(Special+Edition),metalcore; metal; melodic death metal; hardcore; melodic metalcore,0
+The End of Heartache (Special Edition),Killswitch Engage,172000,2400000,https://www.last.fm/music/Killswitch+Engage/The+End+of+Heartache+(Special+Edition),metalcore; metal; hardcore; melodic death metal; 5 stars,18
+Disarm the Descent (Special Edition),Killswitch Engage,137600,2100000,https://www.last.fm/music/Killswitch+Engage/Disarm+the+Descent+(Special+Edition),metalcore; metal; melodic death metal; hardcore; music choice: rock,16
+Seal the Deal & Let's Boogie (Deluxe),Volbeat,175500,3700000,https://www.last.fm/music/Volbeat/Seal+the+Deal+&+Let%27s+Boogie+(Deluxe),heavy metal; 2016; hard rock; metal; 2010s,18
+Guitar Gangsters & Cadillac Blood,Volbeat,0,0,https://www.last.fm/music/Volbeat/Guitar+Gangsters+&+Cadillac+Blood,,0
+Beyond Hell / Above Heaven,Volbeat,0,0,https://www.last.fm/music/Volbeat/Beyond+Hell+%2F+Above+Heaven,,0
+The World We Knew,Frank Sinatra,1200000,17200000,https://www.last.fm/music/Frank+Sinatra/The+World+We+Knew,swing; jazz; easy listening; i think we re friends now with dj toast; wsum 91.7 fm madison,10
+Nothing But The Best (2008 Remastered),Frank Sinatra,800900,8600000,https://www.last.fm/music/Frank+Sinatra/Nothing+But+The+Best+(2008+Remastered),jazz; swing; oldies; vocal jazz; easy listening,0
+My Way (Expanded Edition),Frank Sinatra,695500,4900000,https://www.last.fm/music/Frank+Sinatra/My+Way+(Expanded+Edition),jazz; oldies; swing; frank sinatra; easy listening,12
+Bewitched,Laufey,0,0,https://www.last.fm/music/Laufey/Bewitched,jazz; bossa nova; jazz pop; pop; icelandic,0
+Everything I Know About Love,Laufey,0,0,https://www.last.fm/music/Laufey/Everything+I+Know+About+Love,jazz; bossa nova; jazz pop; pop; icelandic,0
+A Matter of Time,Laufey,607200,19400000,https://www.last.fm/music/Laufey/A+Matter+of+Time,jazz; pop; singer-songwriter; 2025; traditional pop,14
+The Best of Sade,Sade,2200000,39600000,https://www.last.fm/music/Sade/The+Best+of+Sade,soul; sade; jazz; female vocalists; chillout,16
+Love Deluxe,Sade,1400000,32799999,https://www.last.fm/music/Sade/Love+Deluxe,soul; sade; jazz; female vocalists; chillout,9
+Promise,Sade,788100,11500000,https://www.last.fm/music/Sade/Promise,soul; jazz; sade; female vocalists; 80s,11
+MUTT,Leon Thomas,0,0,https://www.last.fm/music/Leon+Thomas/MUTT,jazz; soul; funk; spiritual jazz; rnb,0
+Electric Dusk,Leon Thomas,256800,3100000,https://www.last.fm/music/Leon+Thomas/Electric+Dusk,jazz; soul; funk; spiritual jazz; rnb,12
+MUTT Deluxe: HEEL,Leon Thomas,187500,2200000,https://www.last.fm/music/Leon+Thomas/MUTT+Deluxe:+HEEL,jazz; soul; funk; spiritual jazz; rnb,0
+Kind Of Blue (Legacy Edition),Miles Davis,823600,9400000,https://www.last.fm/music/Miles+Davis/Kind+Of+Blue+(Legacy+Edition),jazz; trumpet; miles davis; cool jazz; instrumental,21
+Kind of Blue,Miles Davis,850800,12400000,https://www.last.fm/music/Miles+Davis/Kind+of+Blue,jazz; cool jazz; modal jazz; 1959; miles davis,5
+Birth of the Cool,Miles Davis,0,0,https://www.last.fm/music/Miles+Davis/Birth+of+the+Cool,jazz; trumpet; bebop; fusion; jazz fusion,0
+Chet Baker Sings,Chet Baker,1000000,20400000,https://www.last.fm/music/Chet+Baker/Chet+Baker+Sings,jazz; vocal jazz; cool jazz; 50s; trumpet,14
+Baby Breeze (Expanded Edition),Chet Baker,204900,1300000,https://www.last.fm/music/Chet+Baker/Baby+Breeze+(Expanded+Edition),jazz; perfect sound whatever; wsum 91.7 fm madison; mixtaperoom; trumpet,15
+Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster),Chet Baker,157800,1100000,https://www.last.fm/music/Chet+Baker/Chet+Baker+Sings:+It+Could+Happen+To+You+%5BOriginal+Jazz+Classics+Remasters%5D+(OJC+Remaster),jazz; trumpet; chet baker; jazz fusion; cool jazz,14
+"Dance, No One's Watching",Ezra Collective,192300,1600000,"https://www.last.fm/music/Ezra+Collective/Dance,+No+One%27s+Watching",jazz; jazz fusion; afrobeat; 2024; jazz,19
+Helicopters,Ezra Collective,7718,11800,https://www.last.fm/music/Ezra+Collective/Helicopters,jazz; jazz fusion; british; trumpet; jazz,0
+You Can't Steal My Joy,Ezra Collective,118700,901600,https://www.last.fm/music/Ezra+Collective/You+Can%27t+Steal+My+Joy,jazz fusion; jazz; 2019; soul; hip-hop,13
+I Put a Spell on You,Nina Simone,945800,9000000,https://www.last.fm/music/Nina+Simone/I+Put+a+Spell+on+You,jazz; 1965; soul; vocal jazz; blues,12
+Wild Is The Wind,Nina Simone,245200,2500000,https://www.last.fm/music/Nina+Simone/Wild+Is+The+Wind,jazz; 1966; 1001 albums you must hear before you die; soul; 60s,11
+Pastel Blues,Nina Simone,0,0,https://www.last.fm/music/Nina+Simone/Pastel+Blues,jazz; soul; blues; female vocalists; vocal jazz,0
+John Coltrane and Johnny Hartman,John Coltrane,305000,1800000,https://www.last.fm/music/John+Coltrane/John+Coltrane+and+Johnny+Hartman,jazz; saxophone; everyday for weeks now; john coltrane; cool jazz,6
+Giant Steps (mono),John Coltrane,217200,1100000,https://www.last.fm/music/John+Coltrane/Giant+Steps+(mono),jazz; saxophone; bebop; john coltrane; free jazz,7
+A Love Supreme,John Coltrane,355600,3900000,https://www.last.fm/music/John+Coltrane/A+Love+Supreme,jazz; avant-garde jazz; 1965; avant-garde; modal jazz,3
+Ella and Louis,Ella Fitzgerald,232900,1500000,https://www.last.fm/music/Ella+Fitzgerald/Ella+and+Louis,jazz; 50s; swing; oldies; vocal jazz,11
+"Love, Ella",Ella Fitzgerald,346500,1600000,"https://www.last.fm/music/Ella+Fitzgerald/Love,+Ella",jazz; female vocalists; vocal jazz; swing; ella fitzgerald,14
+Ella And Louis Again,Ella Fitzgerald,268600,1400000,https://www.last.fm/music/Ella+Fitzgerald/Ella+And+Louis+Again,jazz; female vocalists; jazz vocal; beautiful; smooth,10
+IV,BADBADNOTGOOD,830100,13300000,https://www.last.fm/music/BADBADNOTGOOD/IV,jazz fusion; 2016; jazz; wsum 91.7 fm madison; trip hop,11
+Sour Soul,BADBADNOTGOOD,207200,2500000,https://www.last.fm/music/BADBADNOTGOOD/Sour+Soul,jazz; rap; hip-hop; mojo magazine; 2015,0
+III,BADBADNOTGOOD,238900,4400000,https://www.last.fm/music/BADBADNOTGOOD/III,2014; jazz; jazz fusion; instrumental; best of 2014,9
+The Nat King Cole Story,Nat King Cole,830700,4800000,https://www.last.fm/music/Nat+King+Cole/The+Nat+King+Cole+Story,jazz; nat king cole; oldies; swing; easy listening,36
+L-O-V-E,Nat King Cole,497900,2600000,https://www.last.fm/music/Nat+King+Cole/L-O-V-E,jazz; nat king cole; swing; 60s; 1965,11
+Unforgettable,Nat King Cole,407900,2400000,https://www.last.fm/music/Nat+King+Cole/Unforgettable,50s; jazz; vocal jazz; nat king cole; 1954,2
+La La Land (Original Motion Picture Soundtrack),Justin Hurwitz,867100,22500000,https://www.last.fm/music/Justin+Hurwitz/La+La+Land+(Original+Motion+Picture+Soundtrack),soundtrack; musical; instrumental; score; love,12
+Whiplash (Original Motion Picture Soundtrack),Justin Hurwitz,330200,4600000,https://www.last.fm/music/Justin+Hurwitz/Whiplash+(Original+Motion+Picture+Soundtrack),soundtrack; score; jazz; lounge; 9 of 10 stars,24
+La La Land (Original Motion Picture Score),Justin Hurwitz,224900,3200000,https://www.last.fm/music/Justin+Hurwitz/La+La+Land+(Original+Motion+Picture+Score),soundtrack; instrumental; sad; love; musical,30
+Come Away With Me (Super Deluxe Edition),Norah Jones,465300,5100000,https://www.last.fm/music/Norah+Jones/Come+Away+With+Me+(Super+Deluxe+Edition),jazz; female vocalists; blues; singer-songwriter; pop,44
+Feels Like Home,Norah Jones,1100000,17800000,https://www.last.fm/music/Norah+Jones/Feels+Like+Home,jazz; 2004; pop; vocal jazz; singer-songwriter,13
+Come Away with Me,Norah Jones,0,0,https://www.last.fm/music/Norah+Jones/Come+Away+with+Me,jazz; female vocalists; blues; singer-songwriter; pop,0
+True Genius,Ray Charles,536300,2500000,https://www.last.fm/music/Ray+Charles/True+Genius,soul; jazz; blues; rhythm and blues; ray charles,90
+The Genius Sings The Blues,Ray Charles,173000,876500,https://www.last.fm/music/Ray+Charles/The+Genius+Sings+The+Blues,drjazzmrfunkmusic; blues; soul; ray charles; jazz,12
+"Ray Charles (aka: Hallelujah, I Love Her So)",Ray Charles,370900,2200000,"https://www.last.fm/music/Ray+Charles/Ray+Charles+(aka:+Hallelujah,+I+Love+Her+So)",soul; jazz; blues; rhythm and blues; piano,14
+Tchaikovsky: Swan Lake,Pyotr Ilyich Tchaikovsky,0,0,https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky/Tchaikovsky:+Swan+Lake,classical; romantic; russian; composers; instrumental,0
+Tchaikovsky: The Nutcracker,Pyotr Ilyich Tchaikovsky,456800,5700000,https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky/Tchaikovsky:+The+Nutcracker,classical; christmas; instrumental; conductor; strauss,24
+None But the Lonely Heart,Pyotr Ilyich Tchaikovsky,231400,908900,https://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky/None+But+the+Lonely+Heart,classical; romantic; russian; composers; instrumental,19
+Chopin: Nocturnes,Frédéric Chopin,495600,5000000,https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/Chopin:+Nocturnes,classical; piano; chopin; romanticism; romantic,13
+"Chopin: Piano Sonata No. 2, Nocturnes, Barcarolle & Scherzo",Frédéric Chopin,323900,1300000,"https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/Chopin:+Piano+Sonata+No.+2,+Nocturnes,+Barcarolle+&+Scherzo",classical; piano; romantic; polish; instrumental,0
+The Pianist (Original Motion Picture Soundtrack),Frédéric Chopin,286800,1500000,https://www.last.fm/music/Fr%C3%A9d%C3%A9ric+Chopin/The+Pianist+(Original+Motion+Picture+Soundtrack),classical; classic; soundtrack; piano; frederic chopin,11
+Debussy: Clair de Lune and Other Piano Favourites,Claude Debussy,521500,4600000,https://www.last.fm/music/Claude+Debussy/Debussy:+Clair+de+Lune+and+Other+Piano+Favourites,classical; piano; debussy; impressionist; instrumental,20
+Debussy: Estampes; Pour le piano; 6 épigraphes antiques,Claude Debussy,233700,1400000,https://www.last.fm/music/Claude+Debussy/Debussy:+Estampes;+Pour+le+piano;+6+%C3%A9pigraphes+antiques,classical; classical; piano; impressionist,0
+"Debussy: Suite bergamasque, L. 75, 3. Clair de lune",Claude Debussy,234400,862400,"https://www.last.fm/music/Claude+Debussy/Debussy:+Suite+bergamasque,+L.+75,+3.+Clair+de+lune",zens songs; classical; piano; impressionist; french,1
+"Bach: Cello Suites Nos. 1, 5 & 6",Johann Sebastian Bach,444100,2700000,"https://www.last.fm/music/Johann+Sebastian+Bach/Bach:+Cello+Suites+Nos.+1,+5+&+6",classical; baroque; instrumental; german; bach,0
+Bach: Unaccompanied Cello Suites (Remastered),Johann Sebastian Bach,175500,1300000,https://www.last.fm/music/Johann+Sebastian+Bach/Bach:+Unaccompanied+Cello+Suites+(Remastered),classical; baroque; 1983; classical; baroque,0
+Johann Sebastian Bach,Johann Sebastian Bach,183400,1200000,https://www.last.fm/music/Johann+Sebastian+Bach/Johann+Sebastian+Bach,classical; baroque; instrumental; baroque music; vikingurolafsson,0
+Berlioz: Symphonie fantastique,Hector Berlioz,46700,221800,https://www.last.fm/music/Hector+Berlioz/Berlioz:+Symphonie+fantastique,romanticism; classical; symphonies; berlioz; composer:hector berlioz,5
+"Berlioz: Symphonie fantastique, H. 48",Hector Berlioz,664,2803,"https://www.last.fm/music/Hector+Berlioz/Berlioz:+Symphonie+fantastique,+H.+48",classical; romantic; french; composers; opera,0
+Berlioz: La Damnation de Faust,Hector Berlioz,5296,43200,https://www.last.fm/music/Hector+Berlioz/Berlioz:+La+Damnation+de+Faust,classical; instrumental; french; opera; romantic,35
+Vivaldi: The Four Seasons,Antonio Vivaldi,537400,4900000,https://www.last.fm/music/Antonio+Vivaldi/Vivaldi:+The+Four+Seasons,classical; baroque; instrumental; violin; composers,12
+"Vivaldi Variation (Arr. for Piano from Concerto for Strings in G Minor, RV 156 by F. Christl)",Antonio Vivaldi,200800,643800,"https://www.last.fm/music/Antonio+Vivaldi/Vivaldi+Variation+(Arr.+for+Piano+from+Concerto+for+Strings+in+G+Minor,+RV+156+by+F.+Christl)",classical; baroque; instrumental; composers; classic,0
+Vivaldi: The Four Seasons • Concertos for Bassoon & Violin 'in tromba marina',Antonio Vivaldi,222300,1400000,https://www.last.fm/music/Antonio+Vivaldi/Vivaldi:+The+Four+Seasons+%E2%80%A2+Concertos+for+Bassoon+&+Violin+%27in+tromba+marina%27,classical; baroque; instrumental; composers; classic,0
+Entremont Plays Satie,Erik Satie,153000,533200,https://www.last.fm/music/Erik+Satie/Entremont+Plays+Satie,classical; piano; impressionist; french; composers,0
+Satie: Avant-dernières pensées (Bonus Track Version),Erik Satie,350000,3100000,https://www.last.fm/music/Erik+Satie/Satie:+Avant-derni%C3%A8res+pens%C3%A9es+(Bonus+Track+Version),piano; classical; clinically romantic; composer; instrumental,77
+Satie: Masterpieces,Erik Satie,117500,384300,https://www.last.fm/music/Erik+Satie/Satie:+Masterpieces,classical; piano; impressionist; french; composers,52
+Brahms: 21 Hungarian Dances,Johannes Brahms,251400,1400000,https://www.last.fm/music/Johannes+Brahms/Brahms:+21+Hungarian+Dances,classical; orchestral; johannes brahms; brams; romantic,21
+"Brahms: 21 Hungarian Dances, WoO 1 (version for orchestra)",Johannes Brahms,41700,83400,"https://www.last.fm/music/Johannes+Brahms/Brahms:+21+Hungarian+Dances,+WoO+1+(version+for+orchestra)",classical; romantic; german; composers; instrumental,0
+"Hungarian Dances / Waltzes, Op. 39",Johannes Brahms,260899,1200000,"https://www.last.fm/music/Johannes+Brahms/Hungarian+Dances+%2F+Waltzes,+Op.+39",classical; piano; johannes brahms; pianist; turkish,26
+Rachmaninov: Piano Concerto No.2,Sergei Rachmaninoff,214800,1300000,https://www.last.fm/music/Sergei+Rachmaninoff/Rachmaninov:+Piano+Concerto+No.2,classical; instrumental; symphony; soundtrack; british,3
+Rachmaninoff: Préludes; Études-Tableaux; Moments musicaux,Sergei Rachmaninoff,134900,478500,https://www.last.fm/music/Sergei+Rachmaninoff/Rachmaninoff:+Pr%C3%A9ludes;+%C3%89tudes-Tableaux;+Moments+musicaux,classical; piano; romantic; russian; composers,0
+Rachmaninov Variations,Sergei Rachmaninoff,174800,874900,https://www.last.fm/music/Sergei+Rachmaninoff/Rachmaninov+Variations,classical; sergei rachmaninoff; classical; piano; romantic,0
+Liszt - My Piano Hero,Franz Liszt,313800,1800000,https://www.last.fm/music/Franz+Liszt/Liszt+-+My+Piano+Hero,classical; classical; piano; romantic,0
+Liszt: Scherzo and March / 3 Liebestraume / Berceuse,Franz Liszt,298800,1400000,https://www.last.fm/music/Franz+Liszt/Liszt:+Scherzo+and+March+%2F+3+Liebestraume+%2F+Berceuse,classical; piano; franz liszt; naxos; classical,0
+Liszt: Dreams of Love; Consolations; Sonnets of Petrarca; Rigoletto Paraphrase,Franz Liszt,232400,1100000,https://www.last.fm/music/Franz+Liszt/Liszt:+Dreams+of+Love;+Consolations;+Sonnets+of+Petrarca;+Rigoletto+Paraphrase,classical; piano; franz liszt; romantic; hungarian,13
+Schubert,Franz Schubert,181300,764900,https://www.last.fm/music/Franz+Schubert/Schubert,classical; romantic; piano; chamber music; composers,34
+Greatest Hits: Schubert,Franz Schubert,104000,426500,https://www.last.fm/music/Franz+Schubert/Greatest+Hits:+Schubert,more; classical; romantic; piano; contemporary classical,11
+"Schubert: Piano Sonata D.959 & Minuets D. 334, D. 335, D. 600",Franz Schubert,113900,403000,"https://www.last.fm/music/Franz+Schubert/Schubert:+Piano+Sonata+D.959+&+Minuets+D.+334,+D.+335,+D.+600",classical; romantic; piano; composers; instrumental,0
+"Ravel: Miroirs, Jeux D'Eau, Pavane Pour Une Infante Défunte",Maurice Ravel,0,0,"https://www.last.fm/music/Maurice+Ravel/Ravel:+Miroirs,+Jeux+D%27Eau,+Pavane+Pour+Une+Infante+D%C3%A9funte",classical; impressionist; french; composer; instrumental,0
+Ravel: Complete Works for Solo Piano,Maurice Ravel,191700,1000000,https://www.last.fm/music/Maurice+Ravel/Ravel:+Complete+Works+for+Solo+Piano,classical; piano; jean-philippe collard; all; spotify,33
+RAVEL: Daphnis and Chloe,Maurice Ravel,56100,247300,https://www.last.fm/music/Maurice+Ravel/RAVEL:+Daphnis+and+Chloe,maurice ravel; musique classique; mravel; m-ravel; classical,11
+"Dvořák: Serenade For Strings, Czech Suite",Antonín Dvořák,285000,1300000,"https://www.last.fm/music/Anton%C3%ADn+Dvo%C5%99%C3%A1k/Dvo%C5%99%C3%A1k:+Serenade+For+Strings,+Czech+Suite",classical; czech; romantic; composers; composer,10
+"Dvorák: Symphony No. 9 in E Minor, Op. 95, B. 178 ""From the New World"" / Smetana: The Moldau",Antonín Dvořák,90500,404000,"https://www.last.fm/music/Anton%C3%ADn+Dvo%C5%99%C3%A1k/Dvor%C3%A1k:+Symphony+No.+9+in+E+Minor,+Op.+95,+B.+178+%22From+the+New+World%22+%2F+Smetana:+The+Moldau",classical; romantic; czech; composers; composer,0
+Dvořák: Greatest Melodies (Arr. P. Breiner for Piano),Antonín Dvořák,99900,331600,https://www.last.fm/music/Anton%C3%ADn+Dvo%C5%99%C3%A1k/Dvo%C5%99%C3%A1k:+Greatest+Melodies+(Arr.+P.+Breiner+for+Piano),classical; romantic; czech; composers; composer,33
+Grieg: Peer Gynt Suites / Sibelius: Valse triste,Edvard Grieg,79000,334300,https://www.last.fm/music/Edvard+Grieg/Grieg:+Peer+Gynt+Suites+%2F+Sibelius:+Valse+triste,classical; classical; romantic; norwegian,0
+Grieg: Piano Concerto; Lyric Pieces,Edvard Grieg,156100,492200,https://www.last.fm/music/Edvard+Grieg/Grieg:+Piano+Concerto;+Lyric+Pieces,classical; romantic; norwegian; composers; piano,0
+"GRIEG: Lyric Pieces, Books 1 - 4, Opp. 12, 38, 43 and 47",Edvard Grieg,213000,720800,"https://www.last.fm/music/Edvard+Grieg/GRIEG:+Lyric+Pieces,+Books+1+-+4,+Opp.+12,+38,+43+and+47",classical; piano; edvard grieg; romantic; norwegian,29
+Prokofiev: Romeo & Juliet,Sergei Prokofiev,0,0,https://www.last.fm/music/Sergei+Prokofiev/Prokofiev:+Romeo+&+Juliet,,0
+Prokofiev: Romeo and Juliet,Sergei Prokofiev,175200,850300,https://www.last.fm/music/Sergei+Prokofiev/Prokofiev:+Romeo+and+Juliet,classical; jazz; conductor; jazz piano; russian,52
+Romeo and Juliet: Suite No. 2 Montague and Capulets (Excerpt) Op. 64ter,Sergei Prokofiev,48600,112500,https://www.last.fm/music/Sergei+Prokofiev/Romeo+and+Juliet:+Suite+No.+2+Montague+and+Capulets+(Excerpt)+Op.+64ter,classical; russian; contemporary classical; composer; composers,0
+"SIBELIUS: Piano Music, Vol. 4",Jean Sibelius,440000,2800000,"https://www.last.fm/music/Jean+Sibelius/SIBELIUS:+Piano+Music,+Vol.+4",classical; piano; modern classical; instrumental; classical1221,33
+Sibelius,Jean Sibelius,116300,506700,https://www.last.fm/music/Jean+Sibelius/Sibelius,classical; classical music; sibelius; finnish classical; instrumental,11
+Finlandia: Finland Independence Day,Jean Sibelius,62800,184200,https://www.last.fm/music/Jean+Sibelius/Finlandia:+Finland+Independence+Day,classical; finnish; romantic; afternoon muse; composers,31
+$ome $exy $ongs 4 U,PARTYNEXTDOOR,948400,44400000,https://www.last.fm/music/PARTYNEXTDOOR/$ome+$exy+$ongs+4+U,3 out of 5; 2 out of 5; 1; 3; drake,0
+PARTYNEXTDOOR,PARTYNEXTDOOR,1200000,43300000,https://www.last.fm/music/PARTYNEXTDOOR/PARTYNEXTDOOR,rnb; alternative rnb; partynextdoor; hip-hop; trap,10
+PARTYNEXTDOOR TWO,PARTYNEXTDOOR,859000,29700000,https://www.last.fm/music/PARTYNEXTDOOR/PARTYNEXTDOOR+TWO,rnb; alternative rnb; soul; melancholic; pop rap,12
+Blonde,Frank Ocean,0,0,https://www.last.fm/music/Frank+Ocean/Blonde,rnb; soul; hip-hop; r&b; neo-soul,0
+channel ORANGE,Frank Ocean,2900000,202900000,https://www.last.fm/music/Frank+Ocean/channel+ORANGE,rnb; soul; neo-soul; r&b; alternative rnb,17
+Novacane,Frank Ocean,1500000,23800000,https://www.last.fm/music/Frank+Ocean/Novacane,frank ocean; summer; nocturnal; warm; atmospheric,2
+All I Want Is You,Miguel,1800000,36300000,https://www.last.fm/music/Miguel/All+I+Want+Is+You,rnb; sexy; r&b; miguel; alternative urban,13
+War & Leisure,Miguel,823900,12800000,https://www.last.fm/music/Miguel/War+&+Leisure,2017; soul; rnb; 10s; neo soul,12
+Kaleidoscope Dream,Miguel,0,0,https://www.last.fm/music/Miguel/Kaleidoscope+Dream,rnb; soul; r&b; hip-hop; hip hop,0
+Downtown: Life Under The Gun,August Alsina,119900,1000000,https://www.last.fm/music/August+Alsina/Downtown:+Life+Under+The+Gun,r&b; 10s; hip-hop; rnb; 2013,8
+Testimony (Deluxe),August Alsina,87900,960900,https://www.last.fm/music/August+Alsina/Testimony+(Deluxe),rnb; american; r&b; r and b; male vocalists,17
+Testimony,August Alsina,80000,779900,https://www.last.fm/music/August+Alsina/Testimony,r&b; hip hop; best of 2014; 2014 april; rnb,15
+Euphoria (Original Score from the HBO Series),Labrinth,1300000,30100000,https://www.last.fm/music/Labrinth/Euphoria+(Original+Score+from+the+HBO+Series),pop; soundtrack; 2019; psychedelic; electropop,26
+Imagination & the Misfit Kid,Labrinth,0,0,https://www.last.fm/music/Labrinth/Imagination+&+the+Misfit+Kid,electronic; british; rnb; dance; r&b,0
+Ends & Begins,Labrinth,456800,4500000,https://www.last.fm/music/Labrinth/Ends+&+Begins,2023; pop; alternative pop; alternative rnb; 2022,12
+Sailing Soul(s),Jhené Aiko,358400,10400000,https://www.last.fm/music/Jhen%C3%A9+Aiko/Sailing+Soul(s),rnb; love at first listen; get down; c asian; neo-soul,16
+Sail Out,Jhené Aiko,686600,13100000,https://www.last.fm/music/Jhen%C3%A9+Aiko/Sail+Out,rnb; soul; r&b; childish gambino; chill,7
+Trip,Jhené Aiko,805200,17700000,https://www.last.fm/music/Jhen%C3%A9+Aiko/Trip,rnb; weed; love; soul; 2017,22
+213,Mila J,179300,1600000,https://www.last.fm/music/Mila+J/213,soul; hip hop; rnb; hip-hop; r&b,6
+My Main,Mila J,17600,79300,https://www.last.fm/music/Mila+J/My+Main,hip-hop; rap; rnb; hip hop; cloud rnb,1
+M.I.L.A.,Mila J,11800,58700,https://www.last.fm/music/Mila+J/M.I.L.A.,love at first listen; best of 2014; rnb; urban; mila j,5
+Late Nights: The Album,Jeremih,940800,13200000,https://www.last.fm/music/Jeremih/Late+Nights:+The+Album,r&b; dj mustard; rnb; hip-hop; 2015,15
+Jeremih,Jeremih,767500,5200000,https://www.last.fm/music/Jeremih/Jeremih,jeremih; birthday sex; rnb; sex; slow jams,13
+All About You,Jeremih,512100,3500000,https://www.last.fm/music/Jeremih/All+About+You,dance; rnb; hip-hop; sexy; 50 cent,11
+RENAISSANCE,Beyoncé,1400000,156200000,https://www.last.fm/music/Beyonc%C3%A9/RENAISSANCE,house; 2022; dance; rnb; pop,16
+Dangerously in Love,Beyoncé,2500000,37700000,https://www.last.fm/music/Beyonc%C3%A9/Dangerously+in+Love,rnb; 2003; soul; pop; beyonce,16
+BEYONCÉ [Platinum Edition],Beyoncé,1700000,49000000,https://www.last.fm/music/Beyonc%C3%A9/BEYONC%C3%89+%5BPlatinum+Edition%5D,pop; hip-hop; rnb; soul; 2013,20
+Fan of A Fan The Album (Expanded Edition),Chris Brown,418000,5600000,https://www.last.fm/music/Chris+Brown/Fan+of+A+Fan+The+Album+(Expanded+Edition),chris brown; tyga; rnb; hip-hop; chris brown,0
+F.A.M.E. (Expanded Edition),Chris Brown,697400,7200000,https://www.last.fm/music/Chris+Brown/F.A.M.E.+(Expanded+Edition),chris brown; rnb; hip-hop; chris brown,18
+Exclusive (Expanded Edition),Chris Brown,576600,5700000,https://www.last.fm/music/Chris+Brown/Exclusive+(Expanded+Edition),rnb; chris brown; hip-hop; sexy; r&b,18
+Perfectly Imperfect,Elle Varner,63700,871900,https://www.last.fm/music/Elle+Varner/Perfectly+Imperfect,elle varner; r&b; female vocalists; 2012; soul,11
+Ellevation,Elle Varner,4766,48300,https://www.last.fm/music/Elle+Varner/Ellevation,soul; r&b; rnb; female vocalists; pop,9
+Refill (feat. Kirko Bangz & T-Pain) [Remix],Elle Varner,1627,7982,https://www.last.fm/music/Elle+Varner/Refill+(feat.+Kirko+Bangz+&+T-Pain)+%5BRemix%5D,soul; r&b; female vocalists; rnb; elle varner,0
+Talk Dirty,Jason Derülo,13200,214000,https://www.last.fm/music/Jason+Der%C3%BClo/Talk+Dirty,pop; rnb; dance; 2014; electronic,11
+Jason Derülo,Jason Derülo,249300,1900000,https://www.last.fm/music/Jason+Der%C3%BClo/Jason+Der%C3%BClo,pop; rnb; jason derulo; dance; watcha say,10
+Everything Is 4,Jason Derülo,11100,151500,https://www.last.fm/music/Jason+Der%C3%BClo/Everything+Is+4,pop; jason derulo; 2015; rnb; 2010s,11
+Pat Garrett & Billy the Kid (Soundtrack from the Motion Picture),Bob Dylan,934800,8100000,https://www.last.fm/music/Bob+Dylan/Pat+Garrett+&+Billy+the+Kid+(Soundtrack+from+the+Motion+Picture),folk; singer-songwriter; classic rock; folk rock; 60s,0
+The Freewheelin' Bob Dylan,Bob Dylan,1000000,20200000,https://www.last.fm/music/Bob+Dylan/The+Freewheelin%27+Bob+Dylan,folk; 60s; acoustic; classic rock; singer-songwriter,13
+Highway 61 Revisited,Bob Dylan,1200000,20900000,https://www.last.fm/music/Bob+Dylan/Highway+61+Revisited,folk; folk rock; classic rock; 60s; rock,9
+Sigh No More,Mumford & Sons,2000000,65099999,https://www.last.fm/music/Mumford+&+Sons/Sigh+No+More,folk; indie; indie folk; british; acoustic,12
+Prizefighter,Mumford & Sons,101500,1200000,https://www.last.fm/music/Mumford+&+Sons/Prizefighter,2026; folk; british; folk; indie,14
+Babel (Deluxe Version),Mumford & Sons,629000,8900000,https://www.last.fm/music/Mumford+&+Sons/Babel+(Deluxe+Version),folk; indie; indie folk; british; acoustic,15
+Punisher,Phoebe Bridgers,1500000,135900000,https://www.last.fm/music/Phoebe+Bridgers/Punisher,indie rock; singer-songwriter; indie; rock; folk,11
+Stranger in the Alps,Phoebe Bridgers,1500000,71900000,https://www.last.fm/music/Phoebe+Bridgers/Stranger+in+the+Alps,wsum 91.7 fm madison; indie rock; folk; singer-songwriter; indie folk,11
+Stranger in the Alps (Deluxe Edition),Phoebe Bridgers,879000,30300000,https://www.last.fm/music/Phoebe+Bridgers/Stranger+in+the+Alps+(Deluxe+Edition),indie folk; wsum 91.7 fm madison; 2010s; indie rock; singer-songwriter,13
+Pink Moon,Nick Drake,1500000,44300000,https://www.last.fm/music/Nick+Drake/Pink+Moon,folk; singer-songwriter; acoustic; mellow; nick drake,11
+Bryter Layter,Nick Drake,0,0,https://www.last.fm/music/Nick+Drake/Bryter+Layter,folk; singer-songwriter; acoustic; mellow; indie,0
+Five Leaves Left,Nick Drake,852400,14900000,https://www.last.fm/music/Nick+Drake/Five+Leaves+Left,folk; singer-songwriter; acoustic; mellow; nick drake,10
+Either/Or,Elliott Smith,1700000,76200000,https://www.last.fm/music/Elliott+Smith/Either%2FOr,singer-songwriter; acoustic; indie; folk; mellow,12
+Elliott Smith,Elliott Smith,948200,32000000,https://www.last.fm/music/Elliott+Smith/Elliott+Smith,1995; singer-songwriter; indie; indie folk; acoustic,12
+Figure 8,Elliott Smith,1200000,35500000,https://www.last.fm/music/Elliott+Smith/Figure+8,singer-songwriter; indie; acoustic; folk; indie rock,16
+Dream Your Life Away (Deluxe Edition),Vance Joy,0,0,https://www.last.fm/music/Vance+Joy/Dream+Your+Life+Away+(Deluxe+Edition),folk; indie; australian; singer-songwriter; acoustic,0
+Dream Your Life Away,Vance Joy,1500000,17500000,https://www.last.fm/music/Vance+Joy/Dream+Your+Life+Away,folk; indie; australian; indie folk; alternative,13
+Dream Your Life Away (Special Edition),Vance Joy,818100,8900000,https://www.last.fm/music/Vance+Joy/Dream+Your+Life+Away+(Special+Edition),folk; indie; australian; indie folk; alternative,15
