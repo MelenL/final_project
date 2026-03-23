@@ -42,7 +42,7 @@ musical genres, artists, albums, tracks, and user profiles. The project then
 uses these datasets to perform data analysis and visualization.
 
 The final goal of the analysis is to answer three music-related questions:
-1. What are the main musical genres of the last year?
+1. Which musical genres are the most hybrid ?
 2. Is there a link between a music’s duration and its popularity?
 3. Do the biggest artists have loyal fans?
 
@@ -66,7 +66,7 @@ final_project/
 │   └── run_all.py
 │
 ├── analysis/
-│   ├── question1_genres_age.py
+│   ├── question1_genre_hybridity.py
 │   ├── question2_duration_popularity.py
 │   ├── question3_loyal_fans.py
 │   └── plots/
@@ -134,7 +134,7 @@ The analysis phase is divided into three separate scripts.
 We go to the analysis folder and run each script manually:
 
 cd analysis
-python question1_genres_age.py
+python question1_genre_hybridity.py
 python question2_duration_popularity.py
 python question3_loyal_fans.py
 
@@ -143,7 +143,8 @@ These scripts generate visualizations and print the main findings in the console
 The three analysis questions are:
 
 Question 1:
-What are the main musical genres of the last year?
+Which musical genres are the most hybrid?
+
 
 Question 2:
 Is there a link between a music’s duration and its popularity?
@@ -169,11 +170,10 @@ The analysis scripts generate plots in:
 analysis/plots/
 
 Examples of generated PNG files include:
-- q1_genres_by_artist_count.png
-- q1_top_genres_by_listeners.png
-- q1_top_genres_by_playcount.png
-- q1_genre_reach_vs_engagement.png
-- q1_loyalty_by_genre.png
+- q1_genre_cooccurrence_heatmap.png
+- q1_hybrid_genres_total_cooccurrences.png
+- q1_hybrid_genres_unique_partners.png
+- q1_top_genre_pairs.png
 - q2_duration_distribution.png
 - q2_duration_vs_popularity_scatter.png
 - q2_popularity_by_duration_boxplot.png
