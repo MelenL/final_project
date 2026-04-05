@@ -23,6 +23,31 @@ from scraper_tracks import scrape_top_tracks, save_tracks_csv
 from scraper_users import scrape_users, save_users_csv
 
 
+OUTPUT_FILES = [
+    "genres.csv",
+    "artists.csv",
+    "albums.csv",
+    "tracks.csv",
+    "users.csv",
+]
+
+
+def clear_previous_outputs():
+    """
+    Remove previous CSV outputs so each scraping run starts clean.
+    """
+    removed = 0
+    for filename in OUTPUT_FILES:
+        filepath = os.path.join(OUTPUT_DIR, filename)
+        if os.path.exists(filepath):
+            os.remove(filepath)
+            removed += 1
+            print(f"  Removed previous file: {filepath}")
+
+    if removed == 0:
+        print("  No previous CSV outputs found.")
+
+
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     start_time = time.time()
@@ -31,6 +56,12 @@ def main():
     print("LAST.FM DATA COLLECTION — Pure Web Scraping")
     print("Programming for Data Science - Final Project")
     print("=" * 70)
+    print()
+
+    print("-" * 50)
+    print("RESETTING PREVIOUS CSV OUTPUTS")
+    print("-" * 50)
+    clear_previous_outputs()
     print()
 
     # --- 1. Genres ---

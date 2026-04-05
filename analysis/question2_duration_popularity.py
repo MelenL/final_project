@@ -31,15 +31,16 @@ def load_data():
 
 def clean_data(tracks_df):
     """Filter out tracks with missing or invalid duration."""
-    df = tracks_df[tracks_df["duration_seconds"] > 0].copy()
+    df = tracks_df[tracks_df["duration_seconds"] > 0].copy()  # 0 means extraction failed
     df["duration_minutes"] = df["duration_seconds"] / 60.0
 
-    # Create duration categories for grouped analysis
+    # Group durations into music-industry-standard categories
     bins = [0, 2, 3, 4, 5, 7, 100]
     labels = ["< 2 min", "2-3 min", "3-4 min", "4-5 min", "5-7 min", "> 7 min"]
     df["duration_category"] = pd.cut(df["duration_minutes"], bins=bins, labels=labels)
 
-    # Log-transform popularity for better visualization
+    # Log10 transform: popularity is heavily skewed (few mega-hits with billions of plays).
+    # clip(lower=1) prevents log(0) for tracks with no recorded listeners.
     df["log_listeners"] = np.log10(df["listeners"].clip(lower=1))
     df["log_play_count"] = np.log10(df["play_count"].clip(lower=1))
 
@@ -100,7 +101,7 @@ def plot_duration_vs_popularity_scatter(df):
     axes[0].scatter(df["duration_minutes"], df["log_listeners"],
                     alpha=0.4, s=30, c="#3498db", edgecolor="none")
 
-    # Add trend line (polynomial fit)
+    # Degree-2 polynomial captures the inverted-U shape (peaks ~3-5 min, drops beyond)
     z = np.polyfit(df["duration_minutes"], df["log_listeners"], 2)
     p = np.poly1d(z)
     x_line = np.linspace(df["duration_minutes"].min(),
@@ -247,7 +248,8 @@ def main():
     plot_popularity_by_duration_category(df)
     stats = plot_avg_popularity_by_category(df)
 
-    # Compute Pearson correlation
+    # Pearson measures linear correlation — expected near 0 since the relationship
+    # is non-linear (inverted-U). corr_log_listeners partially corrects for skew.
     corr_listeners = df["duration_seconds"].corr(df["listeners"])
     corr_play_count = df["duration_seconds"].corr(df["play_count"])
     corr_log_listeners = df["duration_seconds"].corr(df["log_listeners"])

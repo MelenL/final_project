@@ -14,9 +14,14 @@ Source pages:
 
 import os
 import csv
-import re
 from config import BASE_URL, SEED_GENRES, OUTPUT_DIR
-from utils import fetch_page, parse_abbr_number, polite_sleep
+from utils import (
+    completeness_ratio,
+    extract_listener_playcount,
+    extract_tag_list,
+    fetch_page,
+    polite_sleep,
+)
 
 
 def scrape_top_artists(seed_genres=None, max_artists=200):
@@ -24,19 +29,24 @@ def scrape_top_artists(seed_genres=None, max_artists=200):
     Collect artists from genre tag pages, then enrich from individual
     artist pages.
 
+    Two-pass strategy:
+      Pass 1 — /tag/GENRE/artists : collect artist names and URLs (no stats yet).
+      Pass 2 — /music/ARTIST      : visit each page for listeners, play count, tags.
+
     Args:
         seed_genres: list of genre names to scrape artists from
         max_artists: maximum number of unique artists to collect
 
     Returns:
-        list[dict] with keys: name, listeners, play_count, url, top_tags
+        list[dict] with keys:
+          name, listeners, play_count, url, top_tags, tag_count, data_quality
     """
     if seed_genres is None:
         seed_genres = SEED_GENRES
 
-    # Step 1: Collect unique artist names + URLs from genre tag pages
-    seen = set()
-    artist_stubs = []
+    # Pass 1: collect artist names and URLs from genre tag pages
+    seen = set()       # prevents the same artist from being added twice
+    artist_stubs = []  # lightweight records (name + URL only)
 
     for genre_name in seed_genres:
         url = f"{BASE_URL}/tag/{genre_name.replace(' ', '+')}/artists"
@@ -47,7 +57,6 @@ def scrape_top_artists(seed_genres=None, max_artists=200):
             polite_sleep()
             continue
 
-        # h3.big-artist-list-title a -> artist name + href
         links = soup.select("h3.big-artist-list-title a")
         count = 0
         for link in links:
@@ -71,7 +80,7 @@ def scrape_top_artists(seed_genres=None, max_artists=200):
     print(f"\n[Artists] Collected {len(artist_stubs)} unique artists. "
           f"Enriching from individual pages...")
 
-    # Step 2: Visit each artist page for listeners, scrobbles, tags
+    # Pass 2: visit each artist page to get listeners, play count, and tags
     artists = []
     for i, stub in enumerate(artist_stubs):
         artist = _enrich_artist(stub)
@@ -97,25 +106,22 @@ def _enrich_artist(stub):
         "play_count": 0,
         "url": stub["url"],
         "top_tags": "",
+        "tag_count": 0,
+        "data_quality": 0.0,
     }
 
     soup = fetch_page(stub["url"])
     if not soup:
         return artist
 
-    # Parse listeners and scrobbles from abbr.intabbr elements
-    # Typically: first = listeners, second = scrobbles
-    abbrs = soup.select("abbr.intabbr")
-    if len(abbrs) >= 2:
-        artist["listeners"] = parse_abbr_number(abbrs[0].get_text(strip=True))
-        artist["play_count"] = parse_abbr_number(abbrs[1].get_text(strip=True))
-    elif len(abbrs) == 1:
-        artist["listeners"] = parse_abbr_number(abbrs[0].get_text(strip=True))
+    artist["listeners"], artist["play_count"] = extract_listener_playcount(soup)
 
-    # Parse genre tags
-    tag_elems = soup.select(".catalogue-tags .tag")
-    tags = [t.get_text(strip=True) for t in tag_elems[:5]]
+    tags = extract_tag_list(soup, limit=10)
     artist["top_tags"] = "; ".join(tags)
+    artist["tag_count"] = len(tags)
+    artist["data_quality"] = completeness_ratio(
+        [artist["listeners"], artist["play_count"], artist["top_tags"]]
+    )
 
     return artist
 
@@ -124,7 +130,15 @@ def save_artists_csv(artists, filename="artists.csv"):
     filepath = os.path.join(OUTPUT_DIR, filename)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    fieldnames = ["name", "listeners", "play_count", "url", "top_tags"]
+    fieldnames = [
+        "name",
+        "listeners",
+        "play_count",
+        "url",
+        "top_tags",
+        "tag_count",
+        "data_quality",
+    ]
     with open(filepath, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()

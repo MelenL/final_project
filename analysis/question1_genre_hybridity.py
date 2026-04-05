@@ -52,6 +52,7 @@ def parse_tags(tag_string, max_tags=5):
             seen.add(tag)
             tags.append(tag)
 
+    # Limit tags per artist to avoid inflating co-occurrence counts
     return tags[:max_tags]
 
 
@@ -61,20 +62,21 @@ def build_genre_structures(df):
     """
     df = df.copy()
     df["parsed_tags"] = df["top_tags"].apply(parse_tags)
-    df = df[df["parsed_tags"].map(len) > 0].copy()
+    df = df[df["parsed_tags"].map(len) > 0].copy()  # drop artists with no tags
 
-    genre_frequency = Counter()
-    unique_partners = defaultdict(set)
-    total_cooccurrence = Counter()
-    pair_counts = Counter()
+    genre_frequency = Counter()        # number of artists per genre
+    unique_partners = defaultdict(set) # distinct genres each genre co-occurs with
+    total_cooccurrence = Counter()     # total number of pairings per genre
+    pair_counts = Counter()            # how many artists share each genre pair
 
     for tags in df["parsed_tags"]:
         for tag in tags:
             genre_frequency[tag] += 1
 
         if len(tags) < 2:
-            continue
+            continue  # need at least 2 tags to form a pair
 
+        # sorted() keeps pairs in alphabetical order to avoid counting (a,b) and (b,a) separately
         for a, b in combinations(sorted(tags), 2):
             pair_counts[(a, b)] += 1
             unique_partners[a].add(b)
@@ -90,12 +92,14 @@ def build_genre_structures(df):
                 "artist_count": artist_count,
                 "unique_partner_count": len(unique_partners.get(genre, set())),
                 "total_cooccurrence_count": total_cooccurrence.get(genre, 0),
+                # average number of co-occurrences per artist
                 "hybridity_ratio": (
                     total_cooccurrence.get(genre, 0) / artist_count if artist_count > 0 else 0
                 ),
             }
         )
 
+    # Sort by diversity first, then by volume
     genre_stats = pd.DataFrame(hybrid_rows).sort_values(
         ["unique_partner_count", "total_cooccurrence_count", "artist_count"],
         ascending=False,
@@ -242,17 +246,18 @@ def plot_genre_cooccurrence_heatmap(parsed_df, genre_frequency, top_n=12):
     Plot 4: Heatmap of co-occurrence among the most frequent genres.
     """
     top_genres = [genre for genre, _ in genre_frequency.most_common(top_n)]
+    # matrix[a][b] = number of artists carrying both genre a and genre b
     matrix = pd.DataFrame(0, index=top_genres, columns=top_genres, dtype=int)
 
     for tags in parsed_df["parsed_tags"]:
         filtered = [tag for tag in tags if tag in top_genres]
-        filtered = list(dict.fromkeys(filtered))
+        filtered = list(dict.fromkeys(filtered))  # deduplicate, preserve order
 
         for tag in filtered:
-            matrix.loc[tag, tag] += 1
+            matrix.loc[tag, tag] += 1  # diagonal: solo presence count
 
         for a, b in combinations(filtered, 2):
-            matrix.loc[a, b] += 1
+            matrix.loc[a, b] += 1  # symmetric update for a valid co-occurrence matrix
             matrix.loc[b, a] += 1
 
     fig, ax = plt.subplots(figsize=(10, 8))

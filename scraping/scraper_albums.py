@@ -14,7 +14,13 @@ Source pages:
 import os
 import csv
 from config import BASE_URL, OUTPUT_DIR
-from utils import fetch_page, parse_abbr_number, polite_sleep
+from utils import (
+    completeness_ratio,
+    extract_listener_playcount,
+    extract_tag_list,
+    fetch_page,
+    polite_sleep,
+)
 
 
 def scrape_top_albums(artist_list, max_albums_per_artist=3):
@@ -26,7 +32,8 @@ def scrape_top_albums(artist_list, max_albums_per_artist=3):
         max_albums_per_artist: how many albums per artist
 
     Returns:
-        list[dict] with keys: name, artist, listeners, play_count, url, tags, num_tracks
+        list[dict] with keys:
+          name, artist, listeners, play_count, url, tags, num_tracks, data_quality
     """
     albums = []
     seen = set()
@@ -71,6 +78,7 @@ def scrape_top_albums(artist_list, max_albums_per_artist=3):
                 "url": full_url,
                 "tags": artist.get("top_tags", ""),
                 "num_tracks": 0,
+                "data_quality": 0.0,
             })
             count += 1
             if count >= max_albums_per_artist:
@@ -99,31 +107,36 @@ def _enrich_album(album):
     if not soup:
         return
 
-    # Listeners and scrobbles
-    abbrs = soup.select("abbr.intabbr")
-    if len(abbrs) >= 2:
-        album["listeners"] = parse_abbr_number(abbrs[0].get_text(strip=True))
-        album["play_count"] = parse_abbr_number(abbrs[1].get_text(strip=True))
-    elif len(abbrs) == 1:
-        album["listeners"] = parse_abbr_number(abbrs[0].get_text(strip=True))
+    album["listeners"], album["play_count"] = extract_listener_playcount(soup)
 
-    # Tags (may override the artist tags with album-specific ones)
-    tag_elems = soup.select(".catalogue-tags .tag")
-    if tag_elems:
-        album["tags"] = "; ".join(t.get_text(strip=True) for t in tag_elems[:5])
+    tags = extract_tag_list(soup, limit=10)
+    if tags:
+        album["tags"] = "; ".join(tags)
 
     # Count tracks in the tracklist
     track_rows = soup.select(".chartlist-row")
     if track_rows:
         album["num_tracks"] = len(track_rows)
 
+    album["data_quality"] = completeness_ratio(
+        [album["listeners"], album["play_count"], album["tags"], album["num_tracks"]]
+    )
+
 
 def save_albums_csv(albums, filename="albums.csv"):
     filepath = os.path.join(OUTPUT_DIR, filename)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    fieldnames = ["name", "artist", "listeners", "play_count", "url", "tags",
-                  "num_tracks"]
+    fieldnames = [
+        "name",
+        "artist",
+        "listeners",
+        "play_count",
+        "url",
+        "tags",
+        "num_tracks",
+        "data_quality",
+    ]
     with open(filepath, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()

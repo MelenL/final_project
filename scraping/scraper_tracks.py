@@ -12,15 +12,28 @@ Source pages:
 """
 
 import os
-import re
 import csv
 from config import BASE_URL, OUTPUT_DIR
-from utils import fetch_page, parse_count_text, polite_sleep
+from utils import (
+    completeness_ratio,
+    extract_duration_seconds,
+    extract_listener_playcount,
+    extract_tag_list,
+    fetch_page,
+    parse_count_text,
+    polite_sleep,
+)
 
 
 def scrape_top_tracks(artist_list, max_tracks_per_artist=5):
     """
     Scrape top tracks for a list of artists.
+
+    Two-pass strategy:
+      Pass 1 — /music/ARTIST/+tracks : collect track names and listener counts.
+                                        Duration is not available on this page.
+      Pass 2 — /music/ARTIST/_/TRACK : visit each track page for duration,
+                                        play count, and track-specific tags.
 
     Args:
         artist_list: list of dicts with 'name', 'url', 'top_tags'
@@ -28,10 +41,11 @@ def scrape_top_tracks(artist_list, max_tracks_per_artist=5):
 
     Returns:
         list[dict] with keys:
-          name, artist, duration_seconds, listeners, play_count, url, tags
+          name, artist, duration_seconds, listeners, play_count, url, tags, data_quality
     """
     tracks = []
 
+    # Pass 1: collect track stubs (name, URL, listener count) from the listing page
     for i, artist in enumerate(artist_list):
         artist_name = artist["name"]
         tracks_url = artist["url"].rstrip("/") + "/+tracks"
@@ -42,7 +56,6 @@ def scrape_top_tracks(artist_list, max_tracks_per_artist=5):
             polite_sleep()
             continue
 
-        # Each track is a .chartlist-row
         rows = soup.select(".chartlist-row")
         count = 0
         for row in rows[:max_tracks_per_artist]:
@@ -54,7 +67,7 @@ def scrape_top_tracks(artist_list, max_tracks_per_artist=5):
         print(f"  Found {count} tracks")
         polite_sleep()
 
-    # Enrich tracks with duration from individual track pages
+    # Pass 2: visit each track page to fill in duration, play count, and tags
     print(f"\n[Tracks] Fetching duration for {len(tracks)} tracks...")
     for i, track in enumerate(tracks):
         _enrich_track_duration(track)
@@ -91,6 +104,7 @@ def _parse_track_row(row, artist_name, artist_tags):
         "play_count": 0,
         "url": url,
         "tags": artist_tags,
+        "data_quality": 0.0,
     }
 
 
@@ -104,40 +118,35 @@ def _enrich_track_duration(track):
     if not soup:
         return
 
-    # Look for duration in metadata sections
-    # Try catalogue-metadata items
-    meta_items = soup.select(".catalogue-metadata li, .catalogue-metadata-description")
-    for item in meta_items:
-        text = item.get_text(strip=True).lower()
-        # Duration patterns: "3:45", "4 min 2 sec", "225000" (ms)
-        time_match = re.search(r"(\d{1,2}):(\d{2})", text)
-        if time_match:
-            mins = int(time_match.group(1))
-            secs = int(time_match.group(2))
-            track["duration_seconds"] = mins * 60 + secs
-            break
+    track["duration_seconds"] = extract_duration_seconds(soup)
 
-    # Get scrobbles (play_count) from header stats
-    abbrs = soup.select("abbr.intabbr")
-    if len(abbrs) >= 2:
-        # For tracks: first = listeners, second = scrobbles
-        from utils import parse_abbr_number
-        track["listeners"] = max(track["listeners"],
-                                  parse_abbr_number(abbrs[0].get_text(strip=True)))
-        track["play_count"] = parse_abbr_number(abbrs[1].get_text(strip=True))
+    listeners, play_count = extract_listener_playcount(soup)
+    track["listeners"] = max(track["listeners"], listeners)
+    track["play_count"] = play_count
 
-    # Track-specific tags
-    tag_elems = soup.select(".catalogue-tags .tag")
-    if tag_elems:
-        track["tags"] = "; ".join(t.get_text(strip=True) for t in tag_elems[:5])
+    tags = extract_tag_list(soup, limit=10)
+    if tags:
+        track["tags"] = "; ".join(tags)
+
+    track["data_quality"] = completeness_ratio(
+        [track["duration_seconds"], track["listeners"], track["play_count"], track["tags"]]
+    )
 
 
 def save_tracks_csv(tracks, filename="tracks.csv"):
     filepath = os.path.join(OUTPUT_DIR, filename)
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-    fieldnames = ["name", "artist", "duration_seconds", "listeners",
-                  "play_count", "url", "tags"]
+    fieldnames = [
+        "name",
+        "artist",
+        "duration_seconds",
+        "listeners",
+        "play_count",
+        "url",
+        "tags",
+        "data_quality",
+    ]
     with open(filepath, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=fieldnames)
         writer.writeheader()

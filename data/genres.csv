@@ -1,51 +1,51 @@
 name,url,reach,top_artists,num_artists_tagged
-rock,https://www.last.fm/tag/rock,23,Radiohead; Paramore; Red Hot Chili Peppers; Linkin Park; Coldplay; Fleetwood Mac; My Chemical Romance; Maroon 5; Harry Styles; The Beatles,21
-pop,https://www.last.fm/tag/pop,23,Sabrina Carpenter; Ariana Grande; Lady Gaga; Bruno Mars; Rihanna; Michael Jackson; Justin Bieber; Katy Perry; Britney Spears; Chappell Roan,21
+rock,https://www.last.fm/tag/rock,23,Radiohead; Paramore; Harry Styles; Linkin Park; Red Hot Chili Peppers; Coldplay; Fleetwood Mac; My Chemical Romance; Maroon 5; Weezer,21
+pop,https://www.last.fm/tag/pop,23,Sabrina Carpenter; Ariana Grande; Lady Gaga; Bruno Mars; Rihanna; Harry Styles; Michael Jackson; Britney Spears; Katy Perry; Chappell Roan,21
 electronic,https://www.last.fm/tag/electronic,23,The Weeknd; Gorillaz; Calvin Harris; PinkPantheress; Daft Punk; Twenty One Pilots; Empire of the Sun; Crystal Castles; MGMT; Clean Bandit,21
-hip-hop,https://www.last.fm/tag/hip-hop,23,"Kendrick Lamar; Kanye West; Tyler, The Creator; Drake; A$AP Rocky; Mac Miller; Childish Gambino; J. Cole; Future; Travi$ Scott",21
-indie,https://www.last.fm/tag/indie,23,The Neighbourhood; Lana Del Rey; Arctic Monkeys; The Smiths; sombr; Dominic Fike; Mac DeMarco; Mitski; The Strokes; The Killers,21
-alternative,https://www.last.fm/tag/alternative,23,Gorillaz; Radiohead; Twenty One Pilots; Coldplay; Deftones; My Chemical Romance; Panic! at the Disco; sombr; The Cranberries; bôa,21
+hip-hop,https://www.last.fm/tag/hip-hop,23,"Kendrick Lamar; Kanye West; Tyler, The Creator; Drake; A$AP Rocky; Childish Gambino; Mac Miller; J. Cole; Travi$ Scott; Future",21
+indie,https://www.last.fm/tag/indie,23,The Neighbourhood; Arctic Monkeys; Lana Del Rey; sombr; Dominic Fike; The Smiths; Mac DeMarco; Mitski; The Killers; The Strokes,21
+alternative,https://www.last.fm/tag/alternative,23,Gorillaz; Radiohead; Twenty One Pilots; Coldplay; Deftones; Panic! at the Disco; My Chemical Romance; sombr; The Cranberries; Pixies,21
 metal,https://www.last.fm/tag/metal,23,System of a Down; Slipknot; Deftones; Korn; Metallica; Disturbed; Rammstein; BABYMETAL; Rob Zombie; Bullet for My Valentine,21
-jazz,https://www.last.fm/tag/jazz,23,Steve Lacy; Frank Sinatra; Laufey; Sade; Leon Thomas; Amy Winehouse; Miles Davis; Chet Baker; Ezra Collective; Nina Simone,21
-classical,https://www.last.fm/tag/classical,23,Pyotr Ilyich Tchaikovsky; Wolfgang Amadeus Mozart; Ludwig van Beethoven; Frédéric Chopin; Claude Debussy; Johann Sebastian Bach; Hector Berlioz; Camille Saint-Saëns; Antonio Vivaldi; Erik Satie,21
+jazz,https://www.last.fm/tag/jazz,23,Steve Lacy; Frank Sinatra; Laufey; Sade; Leon Thomas; Amy Winehouse; Ezra Collective; Miles Davis; Chet Baker; Nina Simone,21
+classical,https://www.last.fm/tag/classical,23,Pyotr Ilyich Tchaikovsky; Wolfgang Amadeus Mozart; Ludwig van Beethoven; Frédéric Chopin; Johann Sebastian Bach; Claude Debussy; Hector Berlioz; Camille Saint-Saëns; Antonio Vivaldi; Erik Satie,21
 r&b,https://www.last.fm/tag/r&b,23,PARTYNEXTDOOR; Frank Ocean; Bruno Mars; Miguel; JMSN; The-Dream; Justin Bieber; The Weeknd; August Alsina; Labrinth,21
-folk,https://www.last.fm/tag/folk,23,Sufjan Stevens; Lord Huron; She & Him; Bob Dylan; Mumford & Sons; Phoebe Bridgers; Bon Iver; The Lumineers; Lizzy McAlpine; Nick Drake,21
-punk,https://www.last.fm/tag/punk,23,The Clash; The Offspring; Green Day; Ramones; Misfits; Joyce Manor; Dead Kennedys; Descendents; Fugazi; blink-182,21
-soul,https://www.last.fm/tag/soul,23,Frank Ocean; Sade; Olivia Dean; Daniel Caesar; Marvin Gaye; Adele; SZA; Labi Siffre; Amy Winehouse; Brent Faiyaz,21
-blues,https://www.last.fm/tag/blues,23,Hozier; Fleetwood Mac; Chris Isaak; Etta James; Eric Clapton; The Black Keys; B.B. King; Tom Waits; Billie Holiday; J.J. Cale,21
-country,https://www.last.fm/tag/country,23,Taylor Swift; Jon Pardi; Luke Combs; Zach Bryan; Chris Stapleton; Johnny Cash; Luke Bryan; Kacey Musgraves; Rascal Flatts; George Strait,21
+folk,https://www.last.fm/tag/folk,23,Sufjan Stevens; Lord Huron; She & Him; Bob Dylan; Mumford & Sons; Bon Iver; The Lumineers; Lizzy McAlpine; Nick Drake; Elliott Smith,21
+punk,https://www.last.fm/tag/punk,23,The Clash; The Offspring; Green Day; Ramones; Misfits; Dead Kennedys; Descendents; Joyce Manor; Fugazi; blink-182,21
+soul,https://www.last.fm/tag/soul,23,Frank Ocean; Sade; Olivia Dean; Daniel Caesar; Marvin Gaye; Adele; SZA; Labi Siffre; Thee Sacred Souls; Amy Winehouse,21
+blues,https://www.last.fm/tag/blues,23,Hozier; Fleetwood Mac; Chris Isaak; Etta James; Eric Clapton; The Black Keys; B.B. King; Tom Waits; J.J. Cale; Billie Holiday,21
+country,https://www.last.fm/tag/country,23,Taylor Swift; Kacey Musgraves; Jon Pardi; Luke Combs; Zach Bryan; Chris Stapleton; Luke Bryan; Johnny Cash; Rascal Flatts; George Strait,21
 reggae,https://www.last.fm/tag/reggae,23,Bob Marley & The Wailers; Sean Paul; Sublime; Natiruts; Shaggy; MAGIC!; Manu Chao; Damian Marley; UB40; YT,21
-latin,https://www.last.fm/tag/latin,23,Shakira; Bad Bunny; Daddy Yankee; Romeo Santos; Maluma; Don Omar; Willie Colón; Luis Miguel; Enrique Iglesias; Ricky Martin,21
-k-pop,https://www.last.fm/tag/k-pop,23,LE SSERAFIM; TWICE; BLACKPINK; NewJeans; BTS; HUNTR/X; ILLIT; KATSEYE; ATEEZ; aespa,21
-ambient,https://www.last.fm/tag/ambient,23,C418; Adore; my head is empty; Øneheart; Brian Eno; Aphex Twin; Boards of Canada; Akira Yamaoka; Moby; Grouper,21
-dance,https://www.last.fm/tag/dance,23,Lady Gaga; Calvin Harris; David Guetta; Britney Spears; Ke$ha; Madonna; Rihanna; Lucky Twice; Marshmello; Milky,21
-house,https://www.last.fm/tag/house,23,David Guetta; Daft Punk; Swedish House Mafia; Avicii; Fred again..; Bob Sinclar; Modjo; Martin Garrix; Duke Dumont; John Summit,21
-techno,https://www.last.fm/tag/techno,23,Gesaffelstein; Underworld; Daft Punk; The Prodigy; Niki; Alan Fitzpatrick; MCR-T; U96; Barker; Charlotte de Witte,21
-post-punk,https://www.last.fm/tag/post-punk,23,The Cure; The Smiths; Fontaines D.C.; Joy Division; Talking Heads; She Wants Revenge; Siouxsie and the Banshees; Geese; Molchat Doma; Wet Leg,21
-new wave,https://www.last.fm/tag/new+wave,23,The Cure; Tears for Fears; Talking Heads; Duran Duran; Blondie; New Order; The Police; The Smiths; Depeche Mode; Billy Idol,21
+latin,https://www.last.fm/tag/latin,23,Shakira; Bad Bunny; Daddy Yankee; Romeo Santos; Don Omar; Luis Miguel; Maluma; Enrique Iglesias; Ricky Martin; Willie Colón,21
+k-pop,https://www.last.fm/tag/k-pop,23,LE SSERAFIM; TWICE; BTS; BLACKPINK; NewJeans; HUNTR/X; aespa; ILLIT; ATEEZ; ENHYPEN,21
+ambient,https://www.last.fm/tag/ambient,23,C418; my head is empty; Adore; Øneheart; Brian Eno; Aphex Twin; Boards of Canada; Akira Yamaoka; Moby; Wisp,21
+dance,https://www.last.fm/tag/dance,23,Lady Gaga; Calvin Harris; David Guetta; Britney Spears; Ke$ha; Madonna; Rihanna; Lucky Twice; Milky; Marshmello,21
+house,https://www.last.fm/tag/house,23,David Guetta; Daft Punk; Swedish House Mafia; Avicii; Fred again..; Martin Garrix; Modjo; Bob Sinclar; Duke Dumont; John Summit,21
+techno,https://www.last.fm/tag/techno,23,Gesaffelstein; Underworld; Daft Punk; Alan Fitzpatrick; MCR-T; The Prodigy; Niki; U96; Barker; Daniel Avery,21
+post-punk,https://www.last.fm/tag/post-punk,23,"The Cure; The Smiths; Fontaines D.C.; Joy Division; Talking Heads; She Wants Revenge; Siouxsie and the Banshees; Geese; Black Country, New Road; Wet Leg",21
+new wave,https://www.last.fm/tag/new+wave,23,The Cure; Tears for Fears; Talking Heads; Duran Duran; Blondie; New Order; Depeche Mode; The Police; The Smiths; Billy Idol,21
 funk,https://www.last.fm/tag/funk,23,"Prince; Jamiroquai; Thundercat; Earth, Wind & Fire; OutKast; Labi Siffre; Mark Ronson; Stevie Wonder; Marvin Gaye; Khruangbin",21
 shoegaze,https://www.last.fm/tag/shoegaze,23,Slowdive; Cigarettes After Sex; Cocteau Twins; LSD and the Search for God; my bloody valentine; Panchiko; Whirr; Pale Saints; Julie; Mazzy Star,21
-dream pop,https://www.last.fm/tag/dream+pop,23,The Marías; Cigarettes After Sex; Beach House; Cocteau Twins; Mazzy Star; Men I Trust; Strawberry Guy; Slowdive; Ethel Cain; The Sundays,21
-emo,https://www.last.fm/tag/emo,23,Modern Baseball; American Football; Mom Jeans.; My Chemical Romance; Sunny Day Real Estate; Everyone Asked About You; Free Throw; Marietta; Tigers Jaw; Hot Mulligan,21
-trap,https://www.last.fm/tag/trap,23,Don Toliver; Playboi Carti; Bad Bunny; Lil Uzi Vert; Travi$ Scott; Metro Boomin; Yeat; Gunna; Lil Yachty; 21 Savage,21
+dream pop,https://www.last.fm/tag/dream+pop,23,Cigarettes After Sex; The Marías; Beach House; Cocteau Twins; Mazzy Star; Men I Trust; Strawberry Guy; Slowdive; Ethel Cain; The Sundays,21
+emo,https://www.last.fm/tag/emo,23,Modern Baseball; Mom Jeans.; American Football; My Chemical Romance; Sunny Day Real Estate; Everyone Asked About You; Free Throw; Tigers Jaw; Marietta; Hot Mulligan,21
+trap,https://www.last.fm/tag/trap,23,Don Toliver; Playboi Carti; Lil Uzi Vert; Travi$ Scott; Bad Bunny; Metro Boomin; Yeat; Gunna; Lil Yachty; 21 Savage,21
 grunge,https://www.last.fm/tag/grunge,23,Nirvana; Alice in Chains; Pearl Jam; Soundgarden; The Smashing Pumpkins; Hole; Stone Temple Pilots; Superheaven; Temple of the Dog; Foo Fighters,21
 singer-songwriter,https://www.last.fm/tag/singer-songwriter,23,Jeff Buckley; Adrianne Lenker; Phoebe Bridgers; Faye Webster; Alex G; Elliott Smith; Billy Joel; Kate Bush; Cameron Winter; Fiona Apple,21
-post-rock,https://www.last.fm/tag/post-rock,23,"Voilà!; Black Country, New Road; Jakob; Sigur Rós; Have a Nice Life; Puzzle; Stereolab; Mogwai; Slint; Talk Talk",21
+post-rock,https://www.last.fm/tag/post-rock,23,"Black Country, New Road; Voilà!; Jakob; Have a Nice Life; Puzzle; Sigur Rós; Stereolab; Mogwai; Slint; Talk Talk",21
 psychedelic,https://www.last.fm/tag/psychedelic,23,Tame Impala; The Velvet Underground; Eyedress; Lord Huron; MGMT; Jungle; Khruangbin; Secos & Molhados; LSD and the Search for God; The Brian Jonestown Massacre,21
-hard rock,https://www.last.fm/tag/hard+rock,23,Guns N' Roses; AC/DC; Led Zeppelin; Kiss; Van Halen; Bon Jovi; Scorpions; Black Sabbath; Aerosmith; Mötley Crüe,21
-synth-pop,https://www.last.fm/tag/synth-pop,23,Sel; D-Devils; Leon Somov & Jazzu; Marshall Masters; Lin Pesto; The Original; Elektra; I Cani; Lemon Joy; Dee D. Jackson,21
-disco,https://www.last.fm/tag/disco,23,"ABBA; Bee Gees; Boney M.; Donna Summer; Gloria Gaynor; Calvin Harris; Modern Talking; KC and The Sunshine Band; Diana Ross; Earth, Wind & Fire",21
-progressive rock,https://www.last.fm/tag/progressive+rock,23,Pink Floyd; Yes; King Crimson; Rush; Electric Light Orchestra; Tool; Genesis; After...; The Alan Parsons Project; Muse,21
-garage rock,https://www.last.fm/tag/garage+rock,23,Royal Blood; Destroy Boys; Sex Bob-Omb; The Hives; Mike Krol; Vundabar; Amyl and the Sniffers; Mannequin Pussy; Sir Chloe; The Stooges,21
+hard rock,https://www.last.fm/tag/hard+rock,23,Guns N' Roses; AC/DC; Led Zeppelin; Kiss; Van Halen; Bon Jovi; Black Sabbath; Scorpions; Aerosmith; Mötley Crüe,21
+synth-pop,https://www.last.fm/tag/synth-pop,23,Sel; D-Devils; Leon Somov & Jazzu; Lin Pesto; Marshall Masters; The Original; Elektra; I Cani; Lemon Joy; Dario G,21
+disco,https://www.last.fm/tag/disco,23,ABBA; Bee Gees; Boney M.; Donna Summer; Anita Ward; Gloria Gaynor; Calvin Harris; Village People; Modern Talking; KC and The Sunshine Band,21
+progressive rock,https://www.last.fm/tag/progressive+rock,23,Pink Floyd; Yes; King Crimson; Electric Light Orchestra; Rush; Tool; Genesis; After...; Muse; The Alan Parsons Project,21
+garage rock,https://www.last.fm/tag/garage+rock,23,Royal Blood; Destroy Boys; Sex Bob-Omb; Mike Krol; The Hives; Vundabar; Amyl and the Sniffers; Sir Chloe; Mannequin Pussy; The Stooges,21
 trip-hop,https://www.last.fm/tag/trip-hop,23,Massive Attack; Portishead; Phantogram; FKA twigs; Glass Animals; DJ Shadow; Sneaker Pimps; I Monster; Everything But the Girl; Tricky,21
 downtempo,https://www.last.fm/tag/downtempo,23,Bonobo; Chet Faker; Massive Attack; BANKS; Zero 7; Quantic; Esthero; Thievery Corporation; Tosca; Karma,21
-experimental,https://www.last.fm/tag/experimental,23,Dean Blunt; Björk; Death Grips; Ween; Adventure Time; Portugal. The Man; Sonic Youth; King Krule; Mac DeMarco; Grimes,21
+experimental,https://www.last.fm/tag/experimental,23,Dean Blunt; Björk; Death Grips; Ween; Portugal. The Man; Adventure Time; King Krule; Sonic Youth; Mac DeMarco; Grimes,21
 lo-fi,https://www.last.fm/tag/lo-fi,23,Mac DeMarco; Joji; TV Girl; Alex G; Car Seat Headrest; Salvia Palth; Surf Curse; Dean Blunt; Cults; Pavement,21
-britpop,https://www.last.fm/tag/britpop,23,Oasis; Blur; Coldplay; The Verve; Keane; Pulp; The Stone Roses; The La's; Supergrass; Stereophonics,21
-drum and bass,https://www.last.fm/tag/drum+and+bass,23,Jade; Pendulum; Sub Focus; Chase & Status; Rudimental; Rockwell; DJ Fresh; Sewerslvt; Bou; Sigma,21
-dubstep,https://www.last.fm/tag/dubstep,23,Skrillex; The Weeknd; James Blake; Burial; Excision; Wonder; Illenium; Gemini; Dabin; Nero,21
+britpop,https://www.last.fm/tag/britpop,23,Oasis; Blur; Coldplay; The Verve; Pulp; Keane; The Stone Roses; The La's; Supergrass; Stereophonics,21
+drum and bass,https://www.last.fm/tag/drum+and+bass,23,Jade; Pendulum; Chase & Status; Sub Focus; Rudimental; Rockwell; DJ Fresh; Bou; Sewerslvt; Netsky,21
+dubstep,https://www.last.fm/tag/dubstep,23,Skrillex; The Weeknd; James Blake; Wonder; Burial; Excision; Illenium; Gemini; Seven Lions; Dabin,21
 afrobeats,https://www.last.fm/tag/afrobeats,23,Amaarae; Asake; Rema; Omah Lay; Davido; Burna Boy; Victony; Tems; Fireboy DML; Wizkid,21
-gothic,https://www.last.fm/tag/gothic,23,Evanescence; Siouxsie and the Banshees; Yousei Teikoku; Bauhaus; London After Midnight; The Sisters of Mercy; Ikon; Voltaire; Emilie Autumn; Darling Violetta,21
-industrial,https://www.last.fm/tag/industrial,23,Nine Inch Nails; Mindless Self Indulgence; KMFDM; Marilyn Manson; Rammstein; Miss Construction; Rob Zombie; Snake River Conspiracy; Swans; Orgy,21
-soundtrack,https://www.last.fm/tag/soundtrack,23,League of Legends; Toby Fox; Hans Zimmer; Kensuke Ushio; 久石譲; Nicholas Britell; Meryl Streep; 鷺巣詩郎; John Williams; SEGA Sound Team,21
-noise,https://www.last.fm/tag/noise,23,Astro; Lupe de Lupe; Cults; clipping.; Prurient; HEALTH; Wilt; Merzbow; AMK; The Prophet,21
+gothic,https://www.last.fm/tag/gothic,23,Evanescence; Siouxsie and the Banshees; Yousei Teikoku; Bauhaus; London After Midnight; Ikon; The Sisters of Mercy; Voltaire; Darling Violetta; Emilie Autumn,21
+industrial,https://www.last.fm/tag/industrial,23,Nine Inch Nails; Mindless Self Indulgence; KMFDM; Marilyn Manson; Rammstein; Miss Construction; Swans; Rob Zombie; Snake River Conspiracy; Ministry,21
+soundtrack,https://www.last.fm/tag/soundtrack,23,League of Legends; Toby Fox; Hans Zimmer; Kensuke Ushio; Meryl Streep; 久石譲; Nicholas Britell; 澤野弘之; 鷺巣詩郎; John Williams,21
+noise,https://www.last.fm/tag/noise,23,Astro; Lupe de Lupe; Cults; Prurient; clipping.; HEALTH; Wilt; Merzbow; AMK; The Prophet,21
