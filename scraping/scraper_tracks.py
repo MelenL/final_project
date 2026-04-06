@@ -6,9 +6,6 @@ Strategy:
   - Extract track name (.chartlist-name a) and listeners (.chartlist-count-bar-value)
   - Visit individual track pages for duration
 
-Source pages:
-  - https://www.last.fm/music/Radiohead/+tracks
-  - https://www.last.fm/music/Radiohead/_/Creep (individual track)
 """
 
 import os
@@ -82,7 +79,7 @@ def _parse_track_row(row, artist_name, artist_tags):
     """
     Parse a single .chartlist-row for track data.
     - .chartlist-name a: track name + URL
-    - .chartlist-count-bar-value: '4,031,390listeners'
+    - .chartlist-count-bar-value: amount of listeners
     """
     name_elem = row.select_one(".chartlist-name a")
     if not name_elem:
@@ -99,7 +96,7 @@ def _parse_track_row(row, artist_name, artist_tags):
     return {
         "name": name,
         "artist": artist_name,
-        "duration_seconds": 0,  # Will be filled by enrichment
+        "duration_seconds": 0,  
         "listeners": listeners,
         "play_count": 0,
         "url": url,

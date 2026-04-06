@@ -9,7 +9,7 @@ Strategy:
 
 Source pages:
   - https://www.last.fm/tag/rock/artists
-  - https://www.last.fm/music/Radiohead
+  - https://www.last.fm/music/Radiohead (for an example)
 """
 
 import os
@@ -46,7 +46,7 @@ def scrape_top_artists(seed_genres=None, max_artists=200):
 
     # Pass 1: collect artist names and URLs from genre tag pages
     seen = set()       # prevents the same artist from being added twice
-    artist_stubs = []  # lightweight records (name + URL only)
+    artist_stubs = []  
 
     for genre_name in seed_genres:
         url = f"{BASE_URL}/tag/{genre_name.replace(' ', '+')}/artists"
@@ -77,8 +77,7 @@ def scrape_top_artists(seed_genres=None, max_artists=200):
             break
 
     artist_stubs = artist_stubs[:max_artists]
-    print(f"\n[Artists] Collected {len(artist_stubs)} unique artists. "
-          f"Enriching from individual pages...")
+    print(f"\n[Artists] Collected {len(artist_stubs)} unique artists.")
 
     # Pass 2: visit each artist page to get listeners, play count, and tags
     artists = []

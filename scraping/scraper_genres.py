@@ -5,8 +5,6 @@ Strategy:
   - Use a seed list of popular genres (since /tag gives 502)
   - For each genre, scrape /tag/GENRE/artists to get top artists and count
   - Collect tags found on artist pages to discover more genres
-
-Source pages: https://www.last.fm/tag/rock/artists
 """
 
 import os
@@ -37,7 +35,6 @@ def scrape_genres(seed_genres=None):
             continue
 
         # Extract artist names from the tag artist page
-        # Selector: h3.big-artist-list-title a
         artist_links = soup.select("h3.big-artist-list-title a")
         artist_names = [a.get_text(strip=True) for a in artist_links]
 

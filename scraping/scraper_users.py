@@ -4,8 +4,6 @@ Scraper for Last.fm user profiles — pure HTML scraping.
 Strategy:
   1. Visit /music/ARTIST/+listeners to discover usernames
   2. Visit /user/USERNAME to scrape profile data
-
-Source pages:
   - https://www.last.fm/music/Radiohead/+listeners
   - https://www.last.fm/user/RJ
 """
