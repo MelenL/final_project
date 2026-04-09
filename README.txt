@@ -604,4 +604,4 @@ VIDEO PRESENTATION
 ============================================================
 
 Video link:
-[INSERT LINK HERE]
+https://youtu.be/cHNzaqJyKtE
